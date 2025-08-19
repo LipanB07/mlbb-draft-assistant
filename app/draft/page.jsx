@@ -19,11 +19,11 @@ export default function DraftPage() {
                 <h3>Your Lane:</h3>
                 <select value={lane} onChange={handleLaneChange} className={style.laneSelect}>
                     <option value="">---  ---</option>
-                    <option value="gold">Gold Lane</option>
-                    <option value="exp">Exp Lane</option>
-                    <option value="mid">Mid Lane</option>
-                    <option value="jungle">Jungle</option>
-                    <option value="roam">Roam</option>
+                    <option value="Gold Lane">Gold Lane</option>
+                    <option value="Exp Lane">Exp Lane</option>
+                    <option value="Mid Lane">Mid Lane</option>
+                    <option value="Jungle">Jungle</option>
+                    <option value="Roam">Roam</option>
                 </select>
             </section>
 
