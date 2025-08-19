@@ -21,8 +21,8 @@ export default function Navbar() {
             {/* Navbar */}
             <nav className={styles.navLinks}>
                 <Link href="/">Home</Link>
-                <Link href="/Draft">Draft</Link>
-                <Link href="/About">About</Link>
+                <Link href="/draft">Draft</Link>
+                <Link href="/about">About</Link>
             </nav>
         </header>
     );

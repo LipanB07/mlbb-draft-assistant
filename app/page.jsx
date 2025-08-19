@@ -5,7 +5,7 @@ import Hero from "@/components/Hero";
 
 export default function Home() {
   return (
-    <section className="home">
+    <main className="home">
       <Hero />
       <a
         href="https://ko-fi.com/vincenzofarro"
@@ -14,6 +14,6 @@ export default function Home() {
       >
         <span className="truncate">Support Me on Ko-fi</span>
       </a>
-    </section>
+    </main>
   );
 }
