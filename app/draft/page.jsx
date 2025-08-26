@@ -61,6 +61,7 @@ export default function DraftPage() {
             <HeroSearchModal
                 isOpen={isOpen}
                 closePopUp={closePopUp}
+                heroes={heroes}
             />
         </main >
     )
