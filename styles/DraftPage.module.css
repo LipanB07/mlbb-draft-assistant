@@ -70,7 +70,7 @@
 }
 
 .modal {
-    top: 120px;
+    top: 70px;
     margin: auto;
     background-color: var(--bg-primary);
     color: var(--text-primary);

@@ -1,8 +1,15 @@
 "use client";
+import { useState } from "react";
 import style from "@/styles/DraftPage.module.css";
 
 export default function HeroSearchModal({ isModalOpen, closePopUp, heroes, handleHeroSelect }) {
+    const [query, setQuery] = useState("");
+
     if (!isModalOpen) return null;
+
+    const filteredHeroes = heroes.filter(hero =>
+        hero.name.toLowerCase().includes(query.toLowerCase())
+    );
 
     return (
         <div className={style.overlay} onClick={closePopUp}>
@@ -12,12 +19,12 @@ export default function HeroSearchModal({ isModalOpen, closePopUp, heroes, handl
                     type="text"
                     className={style.inputSearch}
                     placeholder="Search the hero..."
-                    // value={query}
-                    // onChange={(e) => setQuery(e.target.value)}
+                    value={query}
+                    onChange={(e) => setQuery(e.target.value)}
                     autoFocus
                 />
                 <div className={style.heroSelectionSection}>
-                    {heroes.map(hero => (
+                    {filteredHeroes.map(hero => (
                         <div
                             className={style.heroItem}
                             key={hero.id}
