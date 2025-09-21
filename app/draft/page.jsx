@@ -20,6 +20,7 @@ export default function DraftPage() {
     }
 
     const [selectedSlot, setSelectedSlot] = useState({ panel: null, index: null });
+    const [errorMessage, setErrorMessage] = useState("");
 
     useEffect(() => {
         fetch("/data/heroes_draft_data.json")
@@ -64,6 +65,18 @@ export default function DraftPage() {
         const setter = setters[panel];
         if (!setter) return;
 
+        const isTaken =
+            banSlots.includes(heroId) ||
+            allySlots.includes(heroId) ||
+            enemySlots.includes(heroId)
+
+        if (isTaken) {
+            setErrorMessage(`${heroes[heroId - 1].name} è già stato scelto o bannato!`);
+            setTimeout(() => setErrorMessage(""), 3000);
+            closePopUp();
+            return;
+        }
+
         setter(prev => {
             const updated = [...prev];
             updated[index] = heroId;
@@ -75,6 +88,13 @@ export default function DraftPage() {
 
     return (
         <main>
+            {/* Error Banner*/}
+            {errorMessage && (
+                <div className={style.errorBanner}>
+                    {errorMessage}
+                </div>
+            )}
+
             {/* Lane Selection */}
             <section className={style.laneSection}>
                 <h3>Your Lane:</h3>

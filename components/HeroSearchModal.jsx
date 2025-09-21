@@ -17,6 +17,14 @@ export default function HeroSearchModal({ isModalOpen, closePopUp, heroes, handl
         hero.name.toLowerCase().includes(query.toLowerCase())
     );
 
+    function handleKeyDown(e) {
+        if (e.key === "Enter" && filteredHeroes.length > 0) {
+            e.preventDefault();
+            handleHeroSelect(filteredHeroes[0].id);
+            closePopUp();
+        }
+    }
+
     return (
         <div className={style.overlay} onClick={closePopUp}>
             <div className={style.modal} onClick={(e) => e.stopPropagation()}>
@@ -27,6 +35,7 @@ export default function HeroSearchModal({ isModalOpen, closePopUp, heroes, handl
                     placeholder="Search the hero..."
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
+                    onKeyDown={handleKeyDown}
                     autoFocus
                 />
                 <div className={style.heroSelectionSection}>
