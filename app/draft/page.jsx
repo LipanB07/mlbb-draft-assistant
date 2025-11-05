@@ -115,7 +115,7 @@ export default function DraftPage() {
             {/* Draft Panels */}
             <section>
                 {/* <DraftPanel
-                    title="bans"
+                    title="Banned"
                     handleSlotClick={handleSlotClick}
                     handleNullSlotClick={handleNullSlotClick}
                     slots={banSlots}
