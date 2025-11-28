@@ -38,7 +38,7 @@ export default function Footer() {
 
                 {/* Copyright */}
                 <p className="footer-copy">
-                    @2024 MLBB Draft Assistant. All rights reserved.
+                    @2025 MLBB Draft Assistant. All rights reserved.
                 </p>
             </div>
         </footer >

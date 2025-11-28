@@ -116,9 +116,9 @@ export default function AboutPage() {
             <section className={style.aboutSection}>
                 <h2>Connect with Me</h2>
                 <ul>
-                    <li>GitHub : <a href="https://github.com/vincenzofarro" target="_blank" rel="noopener noreferrer" className={style.blueAcccent}>github.com/vincenzofarro</a></li>
+                    <li>GitHub : <a href="https://github.com/vin-03" target="_blank" rel="noopener noreferrer" className={style.blueAcccent}>github.com/vin-03</a></li>
                     <li>Ko-fi : <a href="https://ko-fi.com/vincenzofarro" target="_blank" rel="noopener noreferrer" className={style.blueAcccent}>ko-fi.com/vincenzofarro</a></li>
-                    <li>LinkedIn : <a href="https://www.linkedin.com/in/vincenzofarro" target="_blank" rel="noopener noreferrer" className={style.blueAcccent}>linkedin.com/in/vincenzo-farro</a></li>
+                    <li>LinkedIn : <a href="https://www.linkedin.com/in/vincenzo-farro/" target="_blank" rel="noopener noreferrer" className={style.blueAcccent}>linkedin.com/in/vincenzo-farro</a></li>
                     <li>My WebSite : <a href="https://vincenzofarro.com/" target="_blank" rel="noopener noreferrer" className={style.blueAcccent}>vincenzofarro.com</a></li>
                 </ul>
             </section>
