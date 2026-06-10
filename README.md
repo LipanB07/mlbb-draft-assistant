@@ -1,3 +1,5 @@
+**Last data update:** June 2026 by LipanB
+
 # MLBB Draft Assistant
 
 **MLBB Draft Assistant** is a web application that helps _Mobile Legends: Bang Bang_ players make smarter draft decisions.  
@@ -36,8 +38,6 @@ All data is based on publicly available information from the
 [official Mobile Legends website](https://www.mobilelegends.com/).
 
 The dataset only includes the top 5–10 visible relationships per hero, so the results are approximate and should be used as a general guideline rather than an absolute reference.
-
-**Last data update:** June 2026
 
 ---
 
