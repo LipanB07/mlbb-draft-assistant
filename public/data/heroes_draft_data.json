@@ -728,7 +728,7 @@
     },
     {
         "id": 46,
-        "name": "Odette",
+        "name": "46. Odette",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -742,7 +742,7 @@
     },
     {
         "id": 47,
-        "name": "Lancelot",
+        "name": "47. Lancelot",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -758,7 +758,7 @@
     },
     {
         "id": 48,
-        "name": "Diggie",
+        "name": "48. Diggie",
         "role": ["Support"],
         "lane": ["Roam"],
         "icons": {
@@ -782,7 +782,7 @@
     },
     {
         "id": 49,
-        "name": "Hylos",
+        "name": "49. Hylos",
         "role": ["Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -796,7 +796,7 @@
     },
     {
         "id": 50,
-        "name": "Zhask",
+        "name": "50. Zhask",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
