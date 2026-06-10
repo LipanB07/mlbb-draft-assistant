@@ -1132,7 +1132,7 @@
     },
     {
         "id": 71,
-        "name": "Kimmy",
+        "name": "71. Kimmy",
         "role": ["Marksman", "Mage"],
         "lane": ["Gold Lane", "Mid Lane"],
         "icons": {
@@ -1146,7 +1146,7 @@
     },
     {
         "id": 72,
-        "name": "Thamuz",
+        "name": "72. Thamuz",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1160,7 +1160,7 @@
     },
     {
         "id": 73,
-        "name": "Harith",
+        "name": "73. Harith",
         "role": ["Mage"],
         "lane": ["Gold Lane", "Mid Lane"],
         "icons": {
@@ -1177,7 +1177,7 @@
     },
     {
         "id": 74,
-        "name": "Minsitthar",
+        "name": "74. Minsitthar",
         "role": ["Fighter"],
         "lane": ["Exp Lane", "Roam"],
         "icons": {
@@ -1193,7 +1193,7 @@
     },
     {
         "id": 75,
-        "name": "Kadita",
+        "name": "75. Kadita",
         "role": ["Mage", "Assassin"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1207,7 +1207,7 @@
     },
     {
         "id": 76,
-        "name": "Faramis",
+        "name": "76. Faramis",
         "role": ["Support", "Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1233,7 +1233,7 @@
     },
     {
         "id": 77,
-        "name": "Badang",
+        "name": "77. Badang",
         "role": ["Fighter"],
         "lane": ["Exp Lane", "Roam"],
         "icons": {
@@ -1247,7 +1247,7 @@
     },
     {
         "id": 78,
-        "name": "Khufra",
+        "name": "78. Khufra",
         "role": ["Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -1268,7 +1268,7 @@
     },
     {
         "id": 79,
-        "name": "Granger",
+        "name": "79. Granger",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -1282,7 +1282,7 @@
     },
     {
         "id": 80,
-        "name": "Guinevere",
+        "name": "80. Guinevere",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1299,7 +1299,7 @@
     },
     {
         "id": 81,
-        "name": "Esmeralda",
+        "name": "81. Esmeralda",
         "role": ["Tank", "Mage"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1318,7 +1318,7 @@
     },
     {
         "id": 82,
-        "name": "Terizla",
+        "name": "82. Terizla",
         "role": ["Fighter", "Tank"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1332,7 +1332,7 @@
     },
     {
         "id": 83,
-        "name": "X.Borg",
+        "name": "83. X.Borg",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1354,7 +1354,7 @@
     },
     {
         "id": 84,
-        "name": "Ling",
+        "name": "84. Ling",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -1373,7 +1373,7 @@
     },
     {
         "id": 85,
-        "name": "Dyrroth",
+        "name": "85. Dyrroth",
         "role": ["Fighter"],
         "lane": ["Exp Lane", "Jungle"],
         "icons": {
@@ -1387,7 +1387,7 @@
     },
     {
         "id": 86,
-        "name": "Lylia",
+        "name": "86. Lylia",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1404,7 +1404,7 @@
     },
     {
         "id": 87,
-        "name": "Baxia",
+        "name": "87. Baxia",
         "role": ["Tank"],
         "lane": ["Jungle"],
         "icons": {
@@ -1425,7 +1425,7 @@
     },
     {
         "id": 88,
-        "name": "Masha",
+        "name": "88. Masha",
         "role": ["Fighter", "Tank"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1451,7 +1451,7 @@
     },
     {
         "id": 89,
-        "name": "Wanwan",
+        "name": "89. Wanwan",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -1465,7 +1465,7 @@
     },
     {
         "id": 90,
-        "name": "Silvanna",
+        "name": "90. Silvanna",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
