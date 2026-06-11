@@ -13,9 +13,7 @@
         "counteredBy": [20, 41, 52, 70, 99, 101, 124],
 		"_counteredBy": "20.Lolita 41.Gatotkaca 52.Pharsa 70.Belerick 99.Barats 101.Yve 124.Chip",
         "synergy": [6, 70, 73, 75, 87, 104, 123],
-		"_synergy": " 6.Tigreal 70.Belerick 73.Harith 75.Kadita 87.Baxia 104.Gloo 113.Yin", 
-        "antiSynergy": [12, 13, 18, 31, 40, 43, 53, 60, 65, 73, 89, 100, 105, 107, 114, 121, 130],
-		"_antiSynergy": "Irithel Bruno Melissa Wanwan Clint"
+        "antiSynergy": [12, 13, 18, 31, 40, 43, 53, 60, 65, 73, 89, 100, 105, 107, 114, 121, 130]
     },
     {
         "id": 2,
