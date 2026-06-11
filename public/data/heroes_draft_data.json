@@ -8,10 +8,14 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32c0d9d3a727a9052754296af6251435.png"
         },
-        "counters": [3, 43, 130, 31, 88, 21, 102],
-        "counteredBy": [70, 124, 41, 99, 82, 72, 98, 36, 86, 117, 2],
-        "synergy": [27, 52, 101, 6, 70, 23, 25, 104, 97, 54],
-        "antiSynergy": [31, 114, 18, 43, 89, 13, 40, 53, 60, 65, 100, 105, 107, 130, 12, 73, 121]
+        "counters": [3, 15, 21, 27, 31, 43, 69, 73, 88, 104, 130],
+		"_counters": "3.Saber 15.Eudora 21.Hayabusa 27.Sun 31.Moskov 43.Irithel 69.Hanzo 73.Harith 88.Masha 104.Gloo 130.Obsidia",
+        "counteredBy": [20, 41, 52, 70, 99, 101, 124],
+		"_counteredBy": "20.Lolita 41.Gatotkaca 52.Pharsa 70.Belerick 99.Barats 101.Yve 124.Chip",
+        "synergy": [6, 70, 73, 75, 87, 104, 123],
+		"_synergy": " 6.Tigreal 70.Belerick 73.Harith 75.Kadita 87.Baxia 104.Gloo 113.Yin", 
+        "antiSynergy": [12, 13, 18, 31, 40, 43, 53, 60, 65, 73, 89, 100, 105, 107, 114, 121, 130],
+		"_antiSynergy": " "
     },
     {
         "id": 2,
@@ -22,7 +26,7 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4df4ce8528166d6e1cc94480f4f0e910.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_774d5cdd7ab9bed0afc7e11dc9d1c97d.png"
         },
-        "counters": [15, 99, 16, 3, 54, 19, 24, 103, 127, 50, 128, 74, 58, 1, 5],
+        "counters": [1, 3, 5, 15, 16, 19, 24, 50, 54, 58, 74, 99, 103, 127, 128],
         "counteredBy": [123, 34, 83, 62, 57, 55, 71, 107, 112, 14],
         "synergy": [93, 77, 67, 66, 55, 90, 65, 115, 45, 74, 57],
         "antiSynergy": [58, 99, 117, 69, 111, 127, 126, 94, 30, 124, 76]
