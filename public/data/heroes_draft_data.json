@@ -8,10 +8,12 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32c0d9d3a727a9052754296af6251435.png"
         },
-        "counters": [3,	15, 21, 27, 31, 43, 69, 73, 88, 104, 130],
-        "counteredBy": [20, 41, 52, 70, 99, 101, 124],
-        "synergy": [6, 70, 73, 75, 87, 104, 123],
-        "antiSynergy": [12, 13, 18, 31, 40, 43, 53, 60, 65, 73, 89, 100, 105, 107, 114, 121, 130]
+        "counters": [88,130,3,48,31,104,43,63,15,27,
+		73,69,21],
+        "counteredBy": [70,98,99,41,124,52,101,
+		20],
+        "synergy": [6,70,73,75,87,104,123],
+        "antiSynergy": [12,13,18,31,40,43,53,60,65,73,89,100,105,107,114,121,130]
     },
     {
         "id": 2,
@@ -78,10 +80,12 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e0005dbfb1376beaccc54ef7aa39375.png"
         },
-        "counters": [34, 16, 27, 10, 15, 85, 45],
-        "counteredBy": [4, 48, 83, 57, 119, 129, 25],
-        "synergy": [76, 108, 64, 74, 22, 1, 7, 124, 103, 16],
-        "antiSynergy": [93, 19, 10, 48, 78, 9, 41, 44, 63, 70, 77, 87, 92, 32, 98, 128]
+        "counters": [34,16,15,88,18,111,7,22,
+		27,10,85,45],
+        "counteredBy": [48,4,57,83,2,61,50,
+		119,129,25],
+        "synergy": [76,108,64,74,22,1,7,124,103,16],
+        "antiSynergy": [93,19,10,48,78,9,41,44,63,70,77,87,92,32,98,128]
     },
     {
         "id": 7,
@@ -316,10 +320,14 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_6ba16b4ca438152a629e7706cbd7453d.png"
         },
-        "counters": [99, 20, 106, 117, 29, 22, 72, 96, 101, 116, 108, 111],
-        "counteredBy": [69, 24, 84, 97, 51, 26, 42, 118, 63, 17, 21],
-        "synergy": [1, 39, 35, 62, 73, 108, 94, 3, 64, 78, 40],
-        "antiSynergy": [115, 101, 66, 52, 86, 5, 46, 57, 61, 129, 96, 36, 75, 125, 76]
+        "counters": [99,20,106,29,82,78,101,117,
+		22,72,96,116,108,111],
+        "counteredBy": [118,24,76,89,69,17,47,
+		84,97,51,26,42,63,21],
+        "synergy": [117,94,111,49,35,70,
+		1,39,62,73,108,3,64,78,40],
+        "antiSynergy": [115,96,52,66,91,
+		101,86,5,46,57,61,129,36,75,125,76]
     },
     {
         "id": 24,
@@ -526,10 +534,12 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_39c9058219c59535e9ed07645c8d9dd3.png"
         },
-        "counters": [104, 20, 50, 106, 27, 22],
-        "counteredBy": [4, 83, 97, 24, 76, 115],
-        "synergy": [93, 64, 73, 88, 130, 124, 24, 27],
-        "antiSynergy": [96, 115, 91, 46, 101, 5, 50, 61, 119, 86, 36, 25]
+        "counters": [104,50,46,20,124,88,100,18,43,
+		106,27,22],
+        "counteredBy": [4,97,83,132,3,109,8,
+		24,76],
+        "synergy": [93,64,73,88,130,124,24,27,105],
+        "antiSynergy": [96,115,91,46,101,5,50,61,119,86,36,25]
     },
     {
         "id": 39,
@@ -734,12 +744,15 @@
         "lane": ["Gold Lane"],
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4f42410c90f84e4d46b129d5e8887e8.png"
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_2bd608ac82a1af4783c5d0fff0c280dc.png"
         },
-        "counters": [65, 70, 41, 43, 84, 12],
-        "counteredBy": [34, 27, 94, 104, 112, 55, 102],
-        "synergy": [94, 108, 111, 71, 61, 39, 115, 127],
-        "antiSynergy": [31, 1, 18, 43, 65, 114, 13, 26]
+        "counters": [65,132,12,70,87,41,117,
+		43],
+        "counteredBy": [34,104,27,19,94,84,37,
+		112,55,102],
+        "synergy": [19,87,
+		94,108,111,71,61,39,115,127],
+        "antiSynergy": [31,1,18,43,65,114,13,26]
     },
     {
         "id": 54,
@@ -834,10 +847,12 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85d213390613bbc09220cf1d9f64c5c0.png"
         },
-        "counters": [94, 124, 78, 31, 9, 44, 6, 70,       3, 15, 99],
-        "counteredBy": [105, 121, 20, 79, 18, 47, 16,       81, 101, 41, 52, 69, 86],
-        "synergy": [20, 15, 39, 64, 94, 8, 124, 10, 9, 78, 93, 92],
-        "antiSynergy": [114, 1, 18, 43, 12, 13, 100, 107, 89, 31]
+        "counters": [94,124,128,99,9,76,44,78,6,70,       
+		31,3,15],
+        "counteredBy": [105,121,20,79,24,47,16,       
+		18,81,101,41,52,69,86],
+        "synergy": [20,15,39,64,94,8,124,10,9,78,93,92],
+        "antiSynergy": [114,1,18,43,12,13,100,107,89,31]
     },
     {
         "id": 61,
@@ -1011,7 +1026,7 @@
         "id": 73,
         "name": "73. Harith",
         "role": ["Mage"],
-        "lane": ["Gold Lane", "Mid Lane"],
+        "lane": ["Gold Lane", "Jungle"],
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f81a3d82eb05c2c062fc6ea8b3d6578.png"
@@ -1226,7 +1241,7 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fcd3a37b34ea16ca6b485b88220e400.png"
         },
-        "counters": [80, 123, 95, 97, 15, 17, 47, 51, 57, 96, 120, 128, 122, 11, 12, 52, 56, 68, 121, 3, 124, 89, 104, 102, 76, 100, 3],
+        "counters": [80, 123, 95, 97, 15, 17, 47, 51, 57, 96, 120, 128, 122, 11, 12, 52, 56, 68, 121, 3, 124, 89, 104, 102, 76, 100],
         "counteredBy": [99, 45, 27, 82, 29, 1, 39, 59, 61, 72, 77, 114, 126, 127, 54, 76, 94, 62, 46, 67, 110, 12],
         "synergy": [124, 67, 70, 62, 104, 32, 37, 38, 41, 44, 45, 47, 68, 81, 97, 128, 31, 58, 77, 105, 113, 119, 13, 65, 66, 72, 111, 86, 115, 122, 101],
         "antiSynergy": [110, 64, 123, 108, 55, 74, 22, 34, 40, 103, 127, 106, 130, 100, 39, 58]
@@ -1758,10 +1773,12 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_422ffc7849e8bb01629d2423054ed410.png"
         },
-        "counters": [88, 78, 105, 27, 45, 47, 87, 89, 84, 83],
-        "counteredBy": [90, 56, 99, 42, 96, 74, 124, 73, 13, 76, 8, 59, 19],
-        "synergy": [62, 48, 12, 106, 4, 43, 115, 102, 104, 128, 125, 103, 107, 65],
-        "antiSynergy": [67, 69, 84, 17, 47, 3, 42, 51, 54, 56, 108, 113, 2, 116, 22, 99, 30, 28, 94]
+        "counters": [27,69,83,24,86,37,48,110,97,121,115,
+		88,78,105,45,47,87,89,84],
+        "counteredBy": [12,107,73,109,56,114,77,
+		90,99,42,96,74,124,13,76,8,59,19],
+        "synergy": [14,6,62,48,12,106,4,43,115,102,104,128,125,103,107,65],
+        "antiSynergy": [67,69,84,17,47,3,42,51,54,56,108,113,2,116,22,99,30,28,94]
     },
     {
         "id": 127,
@@ -1800,10 +1817,12 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_22dc8b16ea98a735027c3141b74ef841.png"
         },
-        "counters": [20, 24, 51, 6, 76, 94, 16],
-        "counteredBy": [110, 59, 87, 104, 73, 112],
-        "synergy": [56, 109, 4, 8, 24, 73, 68, 42, 110, 63, 15],
-        "antiSynergy": [36, 115, 96, 23, 125, 66, 91, 86, 76, 101]
+        "counters": [20,24,6,51,16,97,2,
+		76,94],
+        "counteredBy": [110,87,124,34,104,
+		59,73,112],
+        "synergy": [56,109,4,8,24,73,68,42,110,63,15],
+        "antiSynergy": [36,115,96,23,125,66,91,86,76,101]
     },
     {
         "id": 130,
@@ -1842,10 +1861,14 @@
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_dd980a8816698f1503cdb76201d17dd0.png"
         },
-        "counters": [124, 93, 105, 98, 99, 38],
-        "counteredBy": [113, 109, 112, 52, 84, 83],
-        "synergy": [102, 112, 110, 131, 60, 121],
-        "antiSynergy": [43, 92, 110, 41, 131]
+        "counters": [93,9,78,87,49,124,118,44,18,38,
+		89,92,97,105,98,99],
+        "counteredBy": [62,55,81,76,122,84,83,
+		112,11,46,113,109,52],
+        "synergy": [102,110,112,12,88,60,121,
+		49,96],
+        "antiSynergy": [78,48,14,34,19,
+		20,43,92,41]
     },
     {
         "id": 133,
