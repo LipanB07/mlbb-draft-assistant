@@ -1,4 +1,4 @@
-**Last data update:** June 2026 by LipanB
+**Last data update:** July 2026 by LipanB
 
 YT: https://youtube.com/@LipanB
 IG: https://instagram.com/lipanb7
