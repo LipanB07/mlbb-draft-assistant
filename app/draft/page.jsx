@@ -109,6 +109,7 @@ export default function DraftPage() {
                     <option value="Mid Lane">Mid Lane</option>
                     <option value="Jungle">Jungle</option>
                     <option value="Roam">Roam</option>
+		    <option value="All">All</option>
                 </select>
             </section>
 

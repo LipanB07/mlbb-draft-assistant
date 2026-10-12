@@ -3,14 +3,14 @@
         "id": 1,
         "name": "1. Miya",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "12/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/12",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32c0d9d3a727a9052754296af6251435.png"
         },
-        "counters": [88,130,3,43,31,76,80,15,27],
-        "counteredBy": [70,41,105,72,79,52,101],
+        "counters": [3,88,104,130,80,63,43,21,15,27],
+        "counteredBy": [70,20,41,105,79,52,101],
         "synergy": [6,70,73,75,87,104,123],
         "antiSynergy": [12,13,18,31,40,43,53,60,65,73,89,100,105,107,114,121,130]
     },
@@ -18,14 +18,14 @@
         "id": 2,
         "name": "2. Balmond",
         "role": ["Fighter"],
-        "lane": ["Jungle", "Exp Lane"],
-		"date": "28/07",
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "19/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_6c018674ea709972b4837ec90518e79e.png"
         },
-        "counters": [127,99,124,3,106,108,18,15],
-        "counteredBy": [123,57,83,55,34,53,43],
+        "counters": [127,99,124,3,106,108,58,18,15],
+        "counteredBy": [55,123,83,57,40,53,43],
         "synergy": [55,14,36,45,57,65,66,67,74,77,90,93,115,118,123],
         "antiSynergy": [4,30,39,58,69,76,82,88,94,99,101,111,117,124,126,127]
     },
@@ -33,14 +33,14 @@
         "id": 3,
         "name": "3. Saber",
         "role": ["Assassin"],
-        "lane": ["Jungle", "Roam"],
-		"date": "16/07",
+        "lane": ["All", "Jungle", "Roam"],
+		"date": "09/13",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_75f50285862c6c34aa1770b11d00b4f8.png"
         },
-        "counters": [24,84,122,133,21,40,18,15],
-        "counteredBy": [45,99,108,1,87,34,76],
+        "counters": [24,84,122,133,21,107,18,15],
+        "counteredBy": [78,88,108,87,45,34,76],
         "synergy": [75,33,20,9,70,76,124,34,23,92,111],
         "antiSynergy": [109,17,122,21,126,8,39,84]
     },
@@ -48,14 +48,14 @@
         "id": 4,
         "name": "4. Alice",
         "role": ["Tank", "Mage"],
-        "lane": ["Exp Lane", "Jungle"],
-		"date": "10/07",
+        "lane": ["All", "Exp Lane", "Jungle"],
+		"date": "09/20",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_ec3d5c825e893947a235ea9ea59fff77.png"
         },
-        "counters": [104,6,93,32,78,99,94,124,91,61],
-        "counteredBy": [55,112,40,123,111,87,58],
+        "counters": [104,6,93,124,78,106,91,61],
+        "counteredBy": [87,55,40,110,34,58],
         "synergy": [2,85,55,110,126,15,40,21,52,129,24,76],
         "antiSynergy": [81,104,59,37,106,72,74,29,90,82]
     },
@@ -63,14 +63,14 @@
         "id": 5,
         "name": "5. Nana",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "14/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "10/11",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ce58cae711d0907a722de0e65fbb85b7.png"
         },
-        "counters": [46,20,114,22,90,111,34,15,75],
-        "counteredBy": [104,93,49,113,27,16,24],
+        "counters": [46,20,3,90,22,111,34,15,75],
+        "counteredBy": [104,51,113,9,27,16,24],
         "synergy": [14,10,73,116,56,107,104,42,114],
         "antiSynergy": [115,96,23,52,38,119,66,91,86,50]
     },
@@ -78,14 +78,14 @@
         "id": 6,
         "name": "6. Tigreal",
         "role": ["Tank"],
-        "lane": ["Roam"],
-		"date": "14/07",
+        "lane": ["All", "Roam"],
+		"date": "09/05",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e0005dbfb1376beaccc54ef7aa39375.png"
         },
-        "counters": [16,34,10,18,7,20,22],
-        "counteredBy": [4,83,57,48,129,61,50],
+        "counters": [34,16,10,18,7,53,22],
+        "counteredBy": [4,48,83,57,101,61,50],
         "synergy": [38,46,36,76,108,64,74,22,1,7,124,103,16],
         "antiSynergy": [93,19,10,48,78,9,41,44,63,70,77,87,92,32,98,128]
     },
@@ -93,28 +93,29 @@
         "id": 7,
         "name": "7. Alucard",
         "role": ["Fighter", "Assassin"],
-        "lane": ["Jungle"],
+        "lane": ["All", "Jungle"],
+		"date": "09/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a0606e575ae278db77134b50ccef7ac.png"
         },
-        "counters": [27, 24, 3, 102, 43, 47, 101],
-        "counteredBy": [99, 106, 117, 114, 72, 9, 28, 58, 78, 85, 87, 108, 22, 74, 113, 41],
-        "synergy": [97, 80, 79, 58, 6, 112, 73, 52],
-        "antiSynergy": [69, 108, 39, 117, 94, 28, 42, 27]
+        "counters": [27,102,24,3,33,101,17,42,109],
+        "counteredBy": [87,99,128,20,78,10,32],
+        "synergy": [41,115,97,80,79,58,6,112,73,52],
+        "antiSynergy": [69,108,39,117,94,28,42,27]
     },
     {
         "id": 8,
         "name": "8. Karina",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "15/07",
+        "lane": ["All", "Jungle"],
+		"date": "10/09",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4685e0fb17e2fabaf9cb23f8db8fa262.png"
         },
-        "counters": [24,71,51,16,27,20,18,60],
-        "counteredBy": [79,100,118,13,68,9,78],
+        "counters": [24,51,71,27,16,132,20,18,60],
+        "counteredBy": [79,100,73,13,68,9,78],
         "synergy": [6,76,62,37,82,105,60,129,118,97,74,124,114],
         "antiSynergy": [69,39,122,17,84,90,116,47,30,3,80,109,21,24,56]
     },
@@ -122,14 +123,14 @@
         "id": 9,
         "name": "9. Akai",
         "role": ["Tank"],
-        "lane": ["Roam", "Jungle"],
-		"date": "15/07",
+        "lane": ["All", "Roam", "Jungle"],
+		"date": "09/09",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_48404e80a426805d1b6072b3b33e2c3a.png"
         },
-        "counters": [7,90,5,73,3,117,45,79,15,46],
-        "counteredBy": [4,132,101,81,123,5,48],
+        "counters": [7,5,90,6,121,73,101,8,79,122,15,46],
+        "counteredBy": [110,132,125,4,106,5,48],
         "synergy": [3,15,14,24,55,48,51,61,102,34,26,33,78,130],
         "antiSynergy": [117,6,93,87,99,62,128]
     },
@@ -137,14 +138,14 @@
         "id": 10,
         "name": "10. Franco",
         "role": ["Tank"],
-        "lane": ["Roam"],
-		"date": "12/07",
+        "lane": ["All", "Roam"],
+		"date": "09/06",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_9bed3c0095335606e0ce616c6e5a8553.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_d21e5731e8bf993a9b3271767a3b3b97.png"
         },
-        "counters": [48,17,112,55,34,97,66,18],
-        "counteredBy": [124,6,69,27,94,89,17,77],
+        "counters": [48,17,112,55,22,89,102,66,34,18],
+        "counteredBy": [27,125,69,32,6,89,17,77],
         "synergy": [66,8,100,108,24,27,107,45,18,11,64,105],
         "antiSynergy": [93,34,19,6,14,32,35,44,49,77,92,98,128,20,124,78,112,63,102]
     },
@@ -152,7 +153,7 @@
         "id": 11,
         "name": "11. Bane",
         "role": ["Fighter", "Mage"],
-        "lane": ["Jungle", "Exp Lane"],
+        "lane": ["All", "Jungle", "Exp Lane"],
 		"date": "09/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
@@ -167,14 +168,14 @@
         "id": 12,
         "name": "12. Bruno",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "16/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/26",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68d7ca30f69cb691125e3f03cd782a53.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_2a733ac5b7d1f97093e82940af6f5008.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_3259934dcb13b5a4ba25b25a3eb86f54.png"
         },
-        "counters": [89,84,17,65,97,49,60,1],
-        "counteredBy": [53,18,66,94,96,41,117],
+        "counters": [88,89,132,70,17,118,84,60,1],
+        "counteredBy": [87,20,53,109,8,41,117],
         "synergy": [10,78,124,126,48,36,94,127,87,106,67,44,118,76,20],
         "antiSynergy": [43,114,18,31,13,40,60,73,79,105,107,121,1,100,65,89]
     },
@@ -182,14 +183,14 @@
         "id": 13,
         "name": "13. Clint",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "25/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/17",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffb96ce8d57c9987401f9c5bfebee3b2.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_fd120c3e9261a233442ee88a1d7c9f58.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9a8a8fa3b5eed761a86d8f98740a4325.png"
         },
-        "counters": [20,8,70,68,87,132,64,31,1],
-        "counteredBy": [130,18,17,104,4,114,40],
+        "counters": [20,8,70,87,24,125,124,88,68,31,1],
+        "counteredBy": [87,67,102,18,94,114,40],
         "synergy": [14,55,94,111,62,39,99,88,76,115,108],
         "antiSynergy": [12,31,60,18,1,73,79,43,65,53,100,105]
     },
@@ -197,28 +198,29 @@
         "id": 14,
         "name": "14. Rafaela",
         "role": ["Support"],
-        "lane": ["Roam"],
+        "lane": ["All", "Roam"],
+		"date": "09/13",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f22e22659e8b1acfb665aec8eaffabd7.png"
         },
-        "counters": [57, 24, 4, 49, 76, 78, 40, 110, 87, 2],
-        "counteredBy": [121, 46, 90, 18, 122, 66, 94, 15, 44],
-        "synergy": [9, 76, 99, 105, 82, 5, 18, 25, 29, 46, 74, 101, 117, 87, 122, 15, 49, 113, 104, 36, 54, 56, 67, 90],
-        "antiSynergy": [112, 48, 102, 34, 20, 10, 55, 124, 19, 78, 77]
+        "counters": [24,57,132,4,40,125,78,88,99],
+        "counteredBy": [121,18,90,66,127,84,21],
+        "synergy": [22,37,9,76,99,105,82,5,18,25,29,46,74,101,117,87,122,15,49,113,104,36,54,56,67,90],
+        "antiSynergy": [112,48,102,34,20,10,55,124,19,78,77]
     },
     {
         "id": 15,
         "name": "15. Eudora",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "12/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_1384ce93e5bdb142ea4e5e6b9f941ff1.png"
         },
-        "counters": [118,43,14,24,51,16,131,31],
-        "counteredBy": [93,99,32,36,88,21,75],
+        "counters": [43,112,118,132,14,24,133,16,131,31],
+        "counteredBy": [93,87,67,88,48,21,75],
         "synergy": [48,6,4,62,107,47,60,114,69,14,50,105,108,129],
         "antiSynergy": [96,115,110,101,36,68,46,66]
     },
@@ -226,7 +228,7 @@
         "id": 16,
         "name": "16. Zilong",
         "role": ["Fighter", "Assassin"],
-        "lane": ["Exp Lane"],
+        "lane": ["All", "Exp Lane"],
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e22227fa343e8c5bffd83bb78d1bd292.png"
@@ -240,14 +242,14 @@
         "id": 17,
         "name": "17. Fanny",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "15/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/14",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8ea3a95fa3c726ed0338c0fdd21ad991.png"
         },
-        "counters": [104,79,101,93,87,83,107,40,43],
-        "counteredBy": [88,12,10,77,16,62,78],
+        "counters": [104,79,101,71,13,89,50,69,40,43],
+        "counteredBy": [88,31,110,10,77,62,78],
         "synergy": [19,41,107,111,114,45,124,49,71,130,78,128],
         "antiSynergy": [69,84,122,21,47,3,8,24,30,39,56,97,109,113,126,83]
     },
@@ -255,14 +257,14 @@
         "id": 18,
         "name": "18. Layla",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "10/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6efe9abc2047f59d45fa1c88fb1261b7.png"
         },
-        "counters": [132,48,14,12,76,6,70],
-        "counteredBy": [93,27,32,64,59,8,84],
+        "counters": [114,111,14,12,132,48,102,108,76,124,6,70],
+        "counteredBy": [93,19,32,27,44,8,84],
         "synergy": [74,70,20,68,94,14,62,10,39,111],
         "antiSynergy": [12,114,1,65,43,13,40,53,60,89,100,105,121,130,31,107,79]
     },
@@ -270,14 +272,14 @@
         "id": 19,
         "name": "19. Minotaur",
         "role": ["Tank", "Support"],
-        "lane": ["Roam"],
-		"date": "12/07",
+        "lane": ["All", "Roam"],
+		"date": "10/09",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cf2794cfdbea9a75784133863cf6ac83.png"
         },
-        "counters": [20,33,90,32,78,88,103,116],
-        "counteredBy": [105,4,121,87,104,18,53],
+        "counters": [20,90,32,33,78,46,103,116],
+        "counteredBy": [4,96,105,92,104,18,53],
         "synergy": [79,114,74,76,42,80,24,97,96,90,120,91],
         "antiSynergy": [93,20,124,34,6,10,32,49,62,70,78,87,112,128,14,35,55,102,48,44,104]
     },
@@ -285,13 +287,14 @@
         "id": 20,
         "name": "20. Lolita",
         "role": ["Support", "Tank"],
-        "lane": ["Roam"],
+        "lane": ["All", "Roam"],
+		"date": "04/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_55de18c865efe8e360b3b9ae463d76a2.png"
         },
-        "counters": [33,61,12,112,11,57,111,71],
-        "counteredBy": [36,125,50,114,124,84,103],
+        "counters": [33,61,11,111,112,42,71],
+        "counteredBy": [101,125,81,36,52,84,103],
         "synergy": [60,18,24,3,108,114,72,90,116,76,124,54,57,33,96,102,111,12,74],
         "antiSynergy": [19,112,78,93,102,14,32,41,48,49,55,63,92,10,35,67,77,124]
     },
@@ -299,13 +302,14 @@
         "id": 21,
         "name": "21. Hayabusa",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
+        "lane": ["All", "Jungle"],
+		"date": "09/12",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_63cb1f44bf906b71767a000e38d8ab14.png"
         },
-        "counters": [109,89,125,101,48,122,79,8,61,91],
-        "counteredBy": [99,124,33,76,94,10,62],
+        "counters": [109,101,8,122,125,48,76,40,61,91],
+        "counteredBy": [3,15,20,88,33,10,62],
         "synergy": [37,28,111,107,59,4,101,62,49,78,81],
         "antiSynergy": [3,8,17,30,39,42,47,56,67,69,84,109,113,122]
     },
@@ -313,14 +317,14 @@
         "id": 22,
         "name": "22. Freya",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Jungle"],
-		"date": "13/07",
+        "lane": ["All", "Exp Lane", "Jungle"],
+		"date": "10/10",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_b95ffc5769380f10a409d864d4162433.png"
         },
-        "counters": [101,102,88,118,84,64,20,27,108,53,121],
-        "counteredBy": [106,74,49,99,130],
+        "counters": [101,88,108,73,48,24,59,76,20,53,121],
+        "counteredBy": [106,74,87,111,125,130],
         "synergy": [70,41,6,25,29,37,44,48,63,71,73,80,82,84,93,95,98,101,102,110,120,121,125,127],
         "antiSynergy": [27,94,39,69,34,88,28,126,67,87,85,111,108]
     },
@@ -328,14 +332,14 @@
         "id": 23,
         "name": "23. Gord",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "28/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "19/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_6ba16b4ca438152a629e7706cbd7453d.png"
         },
-        "counters": [99,20,106,117,82,34],
-        "counteredBy": [24,51,84,69,97,17,47],
+        "counters": [99,20,106,117,82,111],
+        "counteredBy": [24,51,84,89,42,17,47],
         "synergy": [49,70,117,94,111,35,1,39,62,73,108,3,64,78,40],
         "antiSynergy": [115,96,52,66,91,101,86,5,46,57,61,129,36,75,125,76]
     },
@@ -343,13 +347,14 @@
         "id": 24,
         "name": "24. Natalia",
         "role": ["Assassin"],
-        "lane": ["Jungle", "Roam"],
+        "lane": ["All", "Jungle", "Roam"],
+		"date": "08/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_67fa418c9efe0a0c29112067b9ddfcd5.png"
         },
-        "counters": [69,84,122,23,115,47,71,119,43],
-        "counteredBy": [108,8,94,99,32,74,62],
+        "counters": [84,69,74,115,122,87,119,43],
+        "counteredBy": [33,3,14,8,73,74,62],
         "synergy": [30,38,9,20,49,104,34,10,19,32,41,50,57,59,70,81,89,92,111,129,87,4,38,78,99,119,28,66,93,125],
         "antiSynergy": [109,62,17,39,26,51,54,110,98,16,108,97,103,8,64]
     },
@@ -357,14 +362,14 @@
         "id": 25,
         "name": "25. Kagura",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "21/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "17/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_634196d9234babcc3072155d4fefaf0c.png"
         },
-        "counters": [20,69,27,90,83,8,57,18,15],
-        "counteredBy": [106,62,76,132,46,118,58],
+        "counters": [20,27,90,83,8,57,88,93,18,15],
+        "counteredBy": [101,118,130,106,73,58],
         "synergy": [93,6,22,111,112,1,14,99,42,72,30],
         "antiSynergy": [101,110,66,52,96,86,36,75,115,38,91]
     },
@@ -372,14 +377,14 @@
         "id": 26,
         "name": "26. Chou",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Roam"],
-		"date": "18/07",
+        "lane": ["All", "Exp Lane", "Roam"],
+		"date": "09/06",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_42/100_850c4b51e3dbab3fd12a718917eaaf44.png"
         },
-        "counters": [83,17,105,121,69,86,122,82,28],
-        "counteredBy": [106,33,81,78,94,53,52],
+        "counters": [83,17,101,105,40,87,110,82,28],
+        "counteredBy": [106,81,128,33,27,53,52],
         "synergy": [55,14,108,45,11,27,83,9],
         "antiSynergy": [87,124,48,102,24,63,103,55,53,100]
     },
@@ -387,14 +392,14 @@
         "id": 27,
         "name": "27. Sun",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Jungle"],
-		"date": "14/07",
+        "lane": ["All", "Exp Lane", "Jungle"],
+		"date": "09/02",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f082e5ba6eb2dd54ae922c0f57c816ac.png"
         },
-        "counters": [88,123,54,18,40,48,69,10,41],
-        "counteredBy": [64,107,7,118,29],
+        "counters": [88,123,54,18,40,48,10,41],
+        "counteredBy": [118,64,29,7,107,30],
         "synergy": [70,6,83,120,106,95,104,1,10,26,35,37,44,54,77,80,85,98,123,97,38,82],
         "antiSynergy": [34,112,55,22,39,94,7]
     },
@@ -402,14 +407,14 @@
         "id": 28,
         "name": "28. Alpha",
         "role": ["Fighter"],
-        "lane": ["Jungle", "Exp Lane"],
-		"date": "25/07",
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "09/26",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_49cc1a8137341b547e2126910cf91ee6.png"
         },
-        "counters": [46,99,106,31,3,20,87,18,121],
-        "counteredBy": [97,89,101,83,14,26,56],
+        "counters": [106,46,99,3,87,35,32,59,18,121],
+        "counteredBy": [57,97,48,101,89,26,56],
         "synergy": [38,63,64,97,98,120,93,124,89,24],
         "antiSynergy": [39,108,117,7,84,47,22,30,126,94]
     },
@@ -417,13 +422,14 @@
         "id": 29,
         "name": "29. Ruby",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
+        "lane": ["All", "Exp Lane"],
+		"date": "09/04",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5b9d38f9f2e7ca03f9f489de19656bc9.png"
         },
-        "counters": [27,104,45,8,64,118,81,80],
-        "counteredBy": [83,106,2,127,70,89,43],
+        "counters": [27,104,45,68,8,27,110,107,64,80],
+        "counteredBy": [83,101,95,23,48,89,43],
         "synergy": [52,75,83,45,80,14,34,76,22,96,55,109,108],
         "antiSynergy": [64,81,59,82,110,4,111,99]
     },
@@ -431,14 +437,14 @@
         "id": 30,
         "name": "30. Yi Sun-shin",
         "role": ["Assassin", "Marksman"],
-        "lane": ["Jungle"],
-		"date": "13/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3fe7fdb5f2aedef505f3728c28572e2e.png"
         },
-        "counters": [72,114,5,28,83,78,89,97,82],
-        "counteredBy": [59,8,32,124,109,10,62],
+        "counters": [72,78,97,5,83,89,87,59,82],
+        "counteredBy": [73,59,122,118,79,10,62],
         "synergy": [28,98,112,101,78,73,76,25,81,85,128],
         "antiSynergy": [84,69,47,21,17,83,109,117,8,2,28,122,126]
     },
@@ -446,13 +452,14 @@
         "id": 31,
         "name": "31. Moskov",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
+        "lane": ["All", "Gold Lane"],
+		"date": "10/10",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_9cf1a5936ac506d5e1b911be097acfb7.png"
         },
-        "counters": [104,118,17,89,69,105,72,2],
-        "counteredBy": [111,124,68,54,33,47,24],
+        "counters": [104,118,17,105,121,81,72,2],
+        "counteredBy": [33,58,60,109,8,47,24],
         "synergy": [117,41,104,98,35,44,88,106,68,70,62,52],
         "antiSynergy": [1,12,13,18,40,43,53,60,65,73,79,89,100,105,107,114,121,130]
     },
@@ -460,7 +467,7 @@
         "id": 32,
         "name": "32. Johnson",
         "role": ["Tank", "Support"],
-        "lane": ["Roam"],
+        "lane": ["All", "Roam"],
 		"date": "09/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
@@ -475,28 +482,29 @@
         "id": 33,
         "name": "33. Cyclops",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "09/02",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_71c31e9801e7d1b40604d54099b30054.png"
         },
-        "counters": [118, 89, 84, 24, 97, 26, 75, 110, 65, 21, 31, 62, 102],
-        "counteredBy": [20, 34, 93, 121, 27, 18, 66, 99, 52],
-        "synergy": [42, 124, 122, 110, 99, 79, 58, 69, 20, 54, 9, 121, 47],
-        "antiSynergy": [57, 108, 71, 125, 107, 101, 86, 76]
+        "counters": [24,132,89,118,84,110,82,28],
+        "counteredBy": [20,34,101,121,18,47,7,25],
+        "synergy": [70,74,42,124,122,110,99,79,58,69,20,54,9,121,47],
+        "antiSynergy": [57,108,71,125,107,101,86,76]
     },
     {
         "id": 34,
         "name": "34. Estes",
         "role": ["Support"],
-        "lane": ["Roam"],
-		"date": "10/07",
+        "lane": ["All", "Roam"],
+		"date": "10/06",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a3619b68f415405f0a1ad77be31eb64d.png"
         },
-        "counters": [76,33,123,48,4,53,57],
-        "counteredBy": [121,122,105,96,131,3,15],
+        "counters": [48,76,33,123,4,2,57],
+        "counteredBy": [121,105,131,96,122,3,15],
         "synergy": [53,60,99,76,74,24,100,29,46,58,71,90,96,111,114,117,121,3,9,57,105,87],
         "antiSynergy": [112,102,48,19,14,10,11,22,27,35,45,55,62,124,88,78]
     },
@@ -504,14 +512,14 @@
         "id": 35,
         "name": "35. Hilda",
         "role": ["Fighter", "Tank"],
-        "lane": ["Roam", "Exp Lane"],
-		"date": "17/07",
+        "lane": ["All", "Roam", "Exp Lane"],
+		"date": "09/23",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0adb85b02fe21534ab505b61977f699f.png"
         },
-        "counters": [79,122,51,113,48,119,16,18],
-        "counteredBy": [28,109,124,81,93,72,59],
+        "counters": [79,48,51,3,122,20,16,42,18],
+        "counteredBy": [78,98,88,12,100,72,59],
         "synergy": [14,10,69,27,45,74,80,23,31,66,83,16],
         "antiSynergy": [32,92,34,62,10,20,19,128]
     },
@@ -519,13 +527,14 @@
         "id": 36,
         "name": "36. Aurora",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "09/01",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1f3f900f917956e81d7764b9e5ffeb3d.png"
         },
-        "counters": [20,46,15,1,3,14,118,67,72,82],
-        "counteredBy": [87,110,101,132,84,75,80],
+        "counters": [20,114,15,46,14,68,88,118,67,72,82],
+        "counteredBy": [87,97,48,105,113,84,75,80],
         "synergy": [121,22,40,67,73,12,108,62,101,125,107,124,55,119,63,14,93,114],
         "antiSynergy": [66,96,115,129,110,15,68,75,76,25,57,23,61,52,38,50]
     },
@@ -533,13 +542,14 @@
         "id": 37,
         "name": "37. Lapu-Lapu",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
+        "lane": ["All", "Exp Lane"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b72b473b98494269cedbba84d4888409.png"
         },
-        "counters": [45,94,90,66,60,121,93,18,15],
-        "counteredBy": [81,123,62,64,102,53,31],
+        "counters": [90,45,94,66,60,76,20,106,124,18,15],
+        "counteredBy": [81,48,110,123,84,53,31],
         "synergy": [6,93,22,88,27,112,55,8,68,108],
         "antiSynergy": [82,106,59,64,81,4,95,120]
     },
@@ -547,14 +557,14 @@
         "id": 38,
         "name": "38. Vexana",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "10/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "09/17",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_39c9058219c59535e9ed07645c8d9dd3.png"
         },
-        "counters": [104,124,46,50,20,18,43,115],
-        "counteredBy": [4,24,132,83,97,3,109,8],
+        "counters": [104,124,50,46,20,111,27,18,43,115],
+        "counteredBy": [24,4,97,71,48,3,109,8],
         "synergy": [93,105,64,73,88,130,124,24,27],
         "antiSynergy": [96,115,91,46,101,5,50,61,119,86,36,25]
     },
@@ -562,13 +572,14 @@
         "id": 39,
         "name": "39. Roger",
         "role": ["Fighter", "Marksman"],
-        "lane": ["Jungle"],
+        "lane": ["All", "Jungle", "Gold Lane"],
+		"date": "09/12",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d518759b615468fc3bc4f6a3ad2c598f.png"
         },
-        "counters": [56,66,64,97,118,113,108,42,116,60,46],
-        "counteredBy": [20,99,94,131,98,74,78],
+        "counters": [42,56,90,113,64,118,89,87,45,60,46],
+        "counteredBy": [124,29,132,34,76,74,78],
         "synergy": [52,38,79,121,65,96,13,18,23,60,100,53,97,43,75,114],
         "antiSynergy": [21,84,8,17,69,7,22,24,27,28,42,51,67,99,108,113,117,118,56,122,3,47,58,88,109,116]
     },
@@ -576,13 +587,14 @@
         "id": 40,
         "name": "40. Karrie",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
+        "lane": ["All", "Gold Lane"],
+		"date": "09/29",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ccc0a2768caba67b601309c771e7ecd5.png"
         },
-        "counters": [4,2,81,49,35,67,72,99,6,117],
-        "counteredBy": [27,14,74,83,45,115,18,5],
+        "counters": [4,2,81,49,87,6,117],
+        "counteredBy": [27,74,122,45,20,115,18,5],
         "synergy": [3,109,76,87,4,83,52,115,91,86,23,124,96],
         "antiSynergy": [43,1,12,114,18,73,31,88,105,65]
     },
@@ -590,13 +602,14 @@
         "id": 41,
         "name": "41. Gatotkaca",
         "role": ["Tank", "Fighter"],
-        "lane": ["Roam", "Exp Lane"],
+        "lane": ["All", "Roam", "Exp Lane"],
+		"date": "09/19",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3ccd096c9c4649519d736073acca91a.png"
         },
-        "counters": [46,124,1,16,127,120,108,18,94],
-        "counteredBy": [102,83,133,104,67,89],
+        "counters": [46,3,16,1,22,89,88,76,124,7,18,94],
+        "counteredBy": [53,132,64,83,71,48,89],
         "synergy": [25,66,55,123,24,88,45,31,64],
         "antiSynergy": [20,6,78,124,44,93]
     },
@@ -604,14 +617,14 @@
         "id": 42,
         "name": "42. Harley",
         "role": ["Assassin", "Mage"],
-        "lane": ["Jungle", "Mid Lane"],
-		"date": "13/07",
+        "lane": ["All", "Jungle", "Mid Lane"],
+		"date": "09/12",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_503566ddaa4727778929dee4b3a01807.png"
         },
-        "counters": [118,57,69,23,114,89,101,91,121],
-        "counteredBy": [20,27,24,104,94,59],
+        "counters": [114,4,57,118,30,71,69,91,121],
+        "counteredBy": [124,20,27,3,94,59],
         "synergy": [9,78,86,50,33,19,45,61,72,91,114,119,130,110,125,5,25,129],
         "antiSynergy": [39,84,126,69,21,80,122,7,51,58,113]
     },
@@ -619,14 +632,14 @@
         "id": 43,
         "name": "43. Irithel",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "10/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/26",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_a65d1e2ced64fbfdfcefdcfba719b3fd.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c2ee5c50de98f4a5a53b09c308cc99d9.png"
         },
-        "counters": [89,97,27,113,105,74,69,1,28],
-        "counteredBy": [15,59,100,53,73,77,90],
+        "counters": [89,105,97,113,121,24,11,27,107,1,28],
+        "counteredBy": [100,73,117,98,59,77,90],
         "synergy": [57,49,124,118,55,131,87,94,99,126,58,39],
         "antiSynergy": [12,89,1,18,31,40,53,60,79,121,13,130,114]
     },
@@ -634,14 +647,14 @@
         "id": 44,
         "name": "44. Grock",
         "role": ["Tank", "Fighter"],
-        "lane": ["Roam", "Exp Lane"],
-		"date": "25/07",
+        "lane": ["All", "Roam", "Exp Lane"],
+		"date": "09/14",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_517b20f98bf1859bc57f5cc1b477b0e8.png"
         },
-        "counters": [20,18,32,46,113,48,78,23],
-        "counteredBy": [110,132,69,81,101,71,42],
+        "counters": [20,18,32,46,94,105,48,18,23],
+        "counteredBy": [4,125,115,132,55,71,51],
         "synergy": [46,52,88,22,16,27,108,31,109,76,12,116],
         "antiSynergy": [32,10,6,124,48,41,70,93,19,102]
     },
@@ -649,14 +662,14 @@
         "id": 45,
         "name": "45. Argus",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "25/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/13",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee4f9ddb2f82ef0dfc99bb72e0a8f557.png"
         },
-        "counters": [88,3,51,40,46,16,23,36],
-        "counteredBy": [29,117,82,72,99,41,6],
+        "counters": [88,3,51,40,46,120,68,23,36],
+        "counteredBy": [106,82,99,101,59,41,6],
         "synergy": [55,14,77,80,83,98,88,10,17,26,29,32,35,41,42,54,57,104,123,103,95,58,2,49,70],
         "antiSynergy": [64,112,76,34,85,55,106,97,48,81,16]
     },
@@ -664,13 +677,14 @@
         "id": 46,
         "name": "46. Odette",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "18/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_6fd1d8e4d436d1de3102a7880cd61cbd.png"
         },
-        "counters": [102,132,14,62,118,24,18,43],
-        "counteredBy": [99,66,5,117,82,19,111],
+        "counters": [102,14,62,132,133,88,24,89,18,43],
+        "counteredBy": [111,41,11,5,104,19],
         "synergy": [32,54,124,14,112,119,34,49,125,63,102,48,84],
         "antiSynergy": [38,115,23,96,66,57,52,15]
     },
@@ -678,14 +692,14 @@
         "id": 47,
         "name": "47. Lancelot",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "17/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/05",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_db7d20dd6e7a9f958ad210680dc2ba7b.png"
         },
-        "counters": [93,28,83,113,32,101,91,52],
-        "counteredBy": [76,55,7,102,112,74,106],
+        "counters": [28,93,113,83,41,89,110,48,121,91,52],
+        "counteredBy": [132,55,59,101,24,74,106],
         "synergy": [93,6,55,112,15,88,58,110,65,33],
         "antiSynergy": [84,69,30,21,17,83,122,126,8,28,67,117,39,108]
     },
@@ -693,7 +707,7 @@
         "id": 48,
         "name": "48. Diggie",
         "role": ["Support"],
-        "lane": ["Roam"],
+        "lane": ["All", "Roam"],
 		"date": "18/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
@@ -708,14 +722,14 @@
         "id": 49,
         "name": "49. Hylos",
         "role": ["Tank"],
-        "lane": ["Roam"],
-		"date": "14/07",
+        "lane": ["All", "Roam"],
+		"date": "20/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_22d8716de16d99253671c2f9e59d9ef3.png"
         },
-        "counters": [32,18,5,15,16,78,48,113,45,73,18,23],
-        "counteredBy": [83,123,71,40,125,53],
+        "counters": [18,32,5,3,16,76,78,124,113,67,23],
+        "counteredBy": [83,71,40,57,91,53],
         "synergy": [82,74,24,46,64,69,17,14,66,21,76,45],
         "antiSynergy": [62,98,20,19,10,128,93,92,70]
     },
@@ -723,28 +737,29 @@
         "id": 50,
         "name": "50. Zhask",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "09/17",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e69b480400b37dd75614f0c8d033c37.png"
         },
-        "counters": [20, 125, 110, 48, 68, 30, 56, 120, 127, 13, 39, 124],
-        "counteredBy": [99, 4, 107, 27, 70, 38, 2, 29, 108, 98],
-        "synergy": [42, 24, 68, 76, 98, 113, 101, 62, 54, 66, 84, 108, 15, 67],
-        "antiSynergy": [91, 96, 115, 38, 52, 127, 124, 86, 68, 36, 5, 57]
+        "counters": [20,48,62,120,89,128,64,103],
+        "counteredBy": [76,111,70,27,38,52,91],
+        "synergy": [42,24,68,76,98,113,101,62,54,66,84,108,15,67],
+        "antiSynergy": [91,96,115,38,52,127,124,86,68,36,5,57]
     },
     {
         "id": 51,
         "name": "51. Helcurt",
         "role": ["Assassin"],
-        "lane": ["Jungle", "Roam"],
-		"date": "12/07",
+        "lane": ["All", "Jungle", "Roam"],
+		"date": "09/14",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffd27cd02c46f7075caedcd51de80d9a.png"
         },
-        "counters": [83,69,57,23,115,18,61,66],
-        "counteredBy": [8,45,7,100,130,117,70,41],
+        "counters": [83,57,23,115,101,69,96,18,61,66],
+        "counteredBy": [24,89,45,127,128,117,70,41],
         "synergy": [6,81,82,87,104,99,117,9,57,96,76,59,78],
         "antiSynergy": [67,126,39,24,84,112,69,42]
     },
@@ -752,7 +767,7 @@
         "id": 52,
         "name": "52. Pharsa",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
 		"date": "16/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
@@ -767,14 +782,14 @@
         "id": 53,
         "name": "53. Lesley",
         "role": ["Marksman", "Assassin"],
-        "lane": ["Gold Lane"],
-		"date": "14/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/02",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_2bd608ac82a1af4783c5d0fff0c280dc.png"
         },
-        "counters": [132,65,41,70,87,12,117],
-        "counteredBy": [27,34,104,114,94,84,47],
+        "counters": [132,65,41,70,87,20,117],
+        "counteredBy": [27,34,104,55,19,84,47],
         "synergy": [19,87,94,108,111,71,61,39,115,127],
         "antiSynergy": [31,1,18,43,65,114,13,26]
     },
@@ -782,14 +797,14 @@
         "id": 54,
         "name": "54. Jawhead",
         "role": ["Fighter"],
-        "lane": ["Roam", "Exp Lane"],
-		"date": "13/07",
+        "lane": ["All", "Roam", "Exp Lane"],
+		"date": "09/04",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9f6109678fb8da14a3999f6b5cb00449.png"
         },
-        "counters": [120,122,79,24,51,16,89,17,3,15],
-        "counteredBy": [27,104,81,94,32,111,72],
+        "counters": [122,79,120,3,51,88,124,24,17,15],
+        "counteredBy": [27,81,82,109,50,111,72],
         "synergy": [46,70,76,27,45,61,108,20,11,50,127,33,14,1,114],
         "antiSynergy": [124,67,126,128,24,110,87,99,98]
     },
@@ -797,14 +812,14 @@
         "id": 55,
         "name": "55. Angela",
         "role": ["Support"],
-        "lane": ["Roam"],
-		"date": "23/07",
+        "lane": ["All", "Roam"],
+		"date": "09/20",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a815a3adad8df99481700c84abaf3c41.png"
         },
-        "counters": [132,4,2,76,59,70],
-        "counteredBy": [20,10,16,90,88,84,42],
+        "counters": [132,4,2,76,47,59,83,70],
+        "counteredBy": [20,12,78,88,68,84,42],
         "synergy": [47,109,124,76,87,59,9,2,4,37,41,43,65,75,82,92,99,100,117,118,125,127,67,78,89,29,36,84,106],
         "antiSynergy": [14,34,112,102,20,11,16,27,77,80,88,19,45,48,26]
     },
@@ -812,14 +827,14 @@
         "id": 56,
         "name": "56. Gusion",
         "role": ["Assassin"],
-        "lane": ["Jungle", "Mid Lane"],
-		"date": "13/07",
+        "lane": ["All", "Jungle", "Mid Lane"],
+		"date": "09/13",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_82dbd20a7d0f274520895007898199e0.png"
         },
-        "counters": [57,83,109,24,23,18,60],
-        "counteredBy": [20,124,46,50,39,10,62],
+        "counters": [109,57,83,24,101,125,18,60],
+        "counteredBy": [20,94,98,39,7,10,62],
         "synergy": [38,52,61,110,72,129,125,5,91,86,114,119,14],
         "antiSynergy": [21,122,17,109,126,80,39,69,84,8,118]
     },
@@ -827,13 +842,14 @@
         "id": 57,
         "name": "57. Valir",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "10/10",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cd4c780c0ed639e2889c1131e56638ec.png"
         },
-        "counters": [117,2,99,4,6,72],
-        "counteredBy": [14,51,84,24,20,47,17],
+        "counters": [117,2,4,67,99],
+        "counteredBy": [62,51,24,14,20,47,17],
         "synergy": [98,95,69,45,64,24,51,20,34,93,2],
         "antiSynergy": [101,86,96,115,23,33,71,36,76,61,46,119,50]
     },
@@ -841,14 +857,14 @@
         "id": 58,
         "name": "58. Martis",
         "role": ["Fighter"],
-        "lane": ["Jungle", "Exp Lane"],
-		"date": "23/07",
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9691f86f84a553ea3982014738905f3f.png"
         },
-        "counters": [124,127,31,78,3,54,46,18],
-        "counteredBy": [83,74,106,53,125,72,117],
+        "counters": [124,3,114,78,31,62,87,73,64,17,18,46],
+        "counteredBy": [83,128,101,112,48,72,117],
         "synergy": [28,98,99,102,34,107,109,7,43,47,88,33,45,61,115],
         "antiSynergy": [87,2,67,85,78,124,127,39,88,42]
     },
@@ -856,14 +872,14 @@
         "id": 59,
         "name": "59.Uranus",
         "role": ["Tank"],
-        "lane": ["Exp Lane"],
-		"date": "28/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04a36899ac866eecb1d3a9c436cfb1d9.png"
         },
-        "counters": [45,88,113,43,30,6,10],
-        "counteredBy": [85,55,40,11,101,18,53],
+        "counters": [45,99,113,41,30,50,9,102,6,10],
+        "counteredBy": [73,118,68,121,40,18,53],
         "synergy": [105,60,55,24,48,83,62,21,84,51],
         "antiSynergy": [106,81,37,4,85,29,72,104,111,123,127,120,95]
     },
@@ -871,13 +887,14 @@
         "id": 60,
         "name": "60. Hanabi",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
+        "lane": ["All", "Gold Lane"],
+		"date": "09/15",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85d213390613bbc09220cf1d9f64c5c0.png"
         },
-        "counters": [94,124,9,99,128,76,44,6,70],
-        "counteredBy": [105,121,79,24,18,47,16],
+        "counters": [94,124,3,2,62,44,9,6,70],
+        "counteredBy": [20,105,121,79,101,16,47],
         "synergy": [92,93,20,15,39,64,94,8,124,10,9,78],
         "antiSynergy": [114,1,18,43,12,13,100,107,89,31]
     },
@@ -885,28 +902,29 @@
         "id": 61,
         "name": "61. Chang'e",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "09/03",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4a2db83b0fb92b826f039955d1b8b5df.png"
         },
-        "counters": [48, 88, 4, 99, 83, 119],
-        "counteredBy": [20, 87, 94, 104, 71, 81],
-        "synergy": [9, 42, 56, 54, 53, 113, 73, 104, 58],
-        "antiSynergy": [96, 115, 23, 110, 91, 38, 57, 36, 86]
+        "counters": [48,88,83,58,28,101,76,15,46],
+        "counteredBy": [20,110,65,124,104,69,42],
+        "synergy": [41,6,9,42,56,54,53,113,73,104,58],
+        "antiSynergy": [96,115,23,110,91,38,57,36,86]
     },
     {
         "id": 62,
         "name": "62. Kaja",
         "role": ["Support", "Fighter"],
-        "lane": ["Roam", "Exp Lane"],
-		"date": "28/07",
+        "lane": ["All", "Roam"],
+		"date": "19/08",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87a88d7acc62a25869a5316147f3ce6a.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_d558bb881e18a070eaeda1e1fdc248a8.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_bd2dce5f2da92dd0fa3a4bb8b45f685e.png"
         },
-        "counters": [89,108,37,65,25,48,97,125,113,92,17,47],
-        "counteredBy": [124,50,94,33,120,18,52],
+        "counters": [105,87,57,89,9,79,71,125,18,121,38],
+        "counteredBy": [46,60,50,4,69,25,30,126],
         "synergy": [15,109,88,76,16,8,126,13,18,23,36,59,64,66,85,113,69,50,73,82,95,111,21,96,115,124,104,31,67,100,122],
         "antiSynergy": [48,93,49,34,19,24,35,98,92,74,77,87,128,9,102,63]
     },
@@ -914,14 +932,14 @@
         "id": 63,
         "name": "63. Selena",
         "role": ["Assassin", "Mage"],
-        "lane": ["Mid Lane", "Roam"],
-		"date": "13/07",
+        "lane": ["All", "Mid Lane", "Roam"],
+		"date": "10/06",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_547ce6e3351ef7a46c02b51d0c4e452c.png"
         },
-        "counters": [83,121,113,28,97,36,105,23,18],
-        "counteredBy": [94,104,78,124,106,60,89],
+        "counters": [83,97,105,121,113,69,23,18],
+        "counteredBy": [124,94,104,20,33,60,89],
         "synergy": [115,105,99,86,82,119,94,46,111,36,129,22],
         "antiSynergy": [76,48,20,6,26,93,98,62,32,10]
     },
@@ -929,14 +947,14 @@
         "id": 64,
         "name": "64. Aldous",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "12/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "18/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2f6866ffc797395ee35f97a74bbea20.png"
         },
-        "counters": [27,51,69,83,119,41,16,67],
-        "counteredBy": [81,8,33,85,90,58],
+        "counters": [27,51,69,83,41,87,70,115,16,67],
+        "counteredBy": [124,81,127,8,73,58,85],
         "synergy": [2,12,104,83,62,87,70,6,28,38,49,57,60,66,75,77,10,93,23,41],
         "antiSynergy": [82,95,106,45,37,16,29,88,103,120,123,72,76,85,81,24]
     },
@@ -944,14 +962,14 @@
         "id": 65,
         "name": "65. Claude",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "12/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_808e898e89986b917e146a9b5dcbbb57.png"
         },
-        "counters": [20,61,121,32,6,89,73,79,38,112],
-        "counteredBy": [53,109,111,12,87,15,10],
+        "counters": [20,121,61,79,18,67,124,73,37,38,112],
+        "counteredBy": [53,40,107,128,33,15,10],
         "synergy": [55,76,39,104,94,109,2,88,96,47,126],
         "antiSynergy": [114,18,89,1,31,53,100,130,13,40,12]
     },
@@ -959,13 +977,14 @@
         "id": 66,
         "name": "66. Vale",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "06/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80d3dd1f4cb10ffebb84289be46a3ecb.png"
         },
-        "counters": [14,46,34,16,114,90,33],
-        "counteredBy": [98,125,93,21,84],
+        "counters": [14,46,14,34,90,101,82,35],
+        "counteredBy": [124,93,67,37,104,21,84],
         "synergy": [20,70,62,2,104,35,64,50,49,88,102,24],
         "antiSynergy": [115,36,23,91,52,25,46,96,5,129,15,110]
     },
@@ -973,14 +992,14 @@
         "id": 67,
         "name": "67. Leomord",
         "role": ["Fighter"],
-        "lane": ["Jungle"],
-		"date": "12/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/05",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6c205605c520867a534e4e74588a7208.png"
         },
-        "counters": [20,3,27,24,15,128,46,52,101,91],
-        "counteredBy": [57,114,125,69,40,106,10,9,5],
+        "counters": [20,3,24,27,70,76,48,98,15,46,52,101,91],
+        "counteredBy": [124,125,96,101,57,106,10,9,5],
         "synergy": [52,38,88,108,48,103,76,2,36,85,55,12,14,112,62,50],
         "antiSynergy": [126,51,39,99,21,54,58,20,84,47,22,117,124,90]
     },
@@ -988,14 +1007,14 @@
         "id": 68,
         "name": "68. Lunox",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "13/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "10/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69d35cd0c549a9bdbcf9fbfddf3122a5.png"
         },
-        "counters": [89,104,8,24,81,101,86],
-        "counteredBy": [117,10,111,116,11,122,84],
+        "counters": [89,104,8,24,84,124,95,49,4,101,86],
+        "counteredBy": [88,110,11,14,34,122,84],
         "synergy": [10,19,50,121,86,88,69,112,37,129,102,31,119],
         "antiSynergy": [125,101,110,15,36,115,50]
     },
@@ -1003,14 +1022,14 @@
         "id": 69,
         "name": "69. Hanzo",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "14/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/17",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_746725e15c7577be6bb92b2665adf447.png"
         },
-        "counters": [48,121,2,99,10,20,18,125],
-        "counteredBy": [24,84,27,51,133,17,47,120],
+        "counters": [48,121,10,18,2,87,117,67,125],
+        "counteredBy": [24,113,89,68,27,17,47,120],
         "synergy": [36,70,6,35,128,104,111,85,49,57,68,86,130,62,15,81,89,33,107],
         "antiSynergy": [21,84,17,47,30,2,7,8,22,39,42,108,109,113,117,118,122,126,99,11,56,116,51]
     },
@@ -1018,14 +1037,14 @@
         "id": 70,
         "name": "70. Belerick",
         "role": ["Tank"],
-        "lane": ["Roam"],
-		"date": "16/07",
+        "lane": ["All", "Roam", "Exp Lane"],
+		"date": "09/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69fdf773b92fbbf182f83d79abcf8d01.png"
         },
-        "counters": [1,130,150,114,90,110,32,47,84],
-        "counteredBy": [53,83,24,64,123,57,115],
+        "counters": [90,1,50,3,32,89,47,84],
+        "counteredBy": [101,105,123,132,12,57,115],
         "synergy": [107,1,88,16,64,24,3,45,31],
         "antiSynergy": [19,78,6,44,92,93,104,49]
     },
@@ -1033,14 +1052,14 @@
         "id": 71,
         "name": "71. Kimmy",
         "role": ["Marksman", "Mage"],
-        "lane": ["Gold Lane", "Mid Lane"],
-		"date": "15/07",
+        "lane": ["All", "Gold Lane", "Mid Lane"],
+		"date": "09/17",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_3fa938873a71f33898f26b19db654b7d.png"
         },
-        "counters": [27,49,35,93,69,113,4,79,91,44],
-        "counteredBy": [20,8,17,24,70,3,47],
+        "counters": [27,69,49,93,4,105,81,32,79,91],
+        "counteredBy": [87,101,76,20,102,3,47],
         "synergy": [77,29,34,17,99,53,73,113,121,22],
         "antiSynergy": [101,115,57,52,96,33,125,86]
     },
@@ -1048,14 +1067,14 @@
         "id": 72,
         "name": "72. Thamuz",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "25/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "20/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_3e7e133556af2f5d82f49fa8624b6bd5.png"
         },
-        "counters": [127,4,88,81,7,46,16,27],
-        "counteredBy": [123,57,83,17,105,40,43],
+        "counters": [88,4,127,7,46,81,102,16,27],
+        "counteredBy": [123,40,57,105,83,43],
         "synergy": [55,14,80,97,56,20,42,25,87,88,93],
         "antiSynergy": [59,85,81,82,4,123,64]
     },
@@ -1063,14 +1082,14 @@
         "id": 73,
         "name": "73. Harith",
         "role": ["Mage"],
-        "lane": ["Gold Lane", "Jungle"],
-		"date": "12/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "20/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f81a3d82eb05c2c062fc6ea8b3d6578.png"
         },
-        "counters": [20,119,32,126,43,61,70],
-        "counteredBy": [106,111,124,94,74,52],
+        "counters": [20,32,126,8,25,108,64,11,70],
+        "counteredBy": [88,76,106,128,12,119,52],
         "synergy": [74,19,86,96,22,94,36,5,23,30,38,71,84,91,76,62,129,52,61,108,110,115,7],
         "antiSynergy": [12,89,40,13,130,31,100,105,1]
     },
@@ -1078,13 +1097,13 @@
         "id": 74,
         "name": "74. Minsitthar",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Roam"],
-		"date": "12/07",
+        "lane": ["All", "Exp Lane", "Roam"],
+		"date": "10/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbfdfa2d0a3cc95cbc197d0a14d5ecd1.png"
         },
-        "counters": [22,106,73,58,127,110,97,120],
+        "counters": [22,106,73,58,127,40,97,120],
         "counteredBy": [24,113,87,108,8,16],
         "synergy": [114,60,124,19,34,14,98,6,32,35,49,128,8,20,2],
         "antiSynergy": [103,88,106,95,4,62,122,76,123,110]
@@ -1093,14 +1112,14 @@
         "id": 75,
         "name": "75. Kadita",
         "role": ["Mage", "Assassin"],
-        "lane": ["Mid Lane"],
-		"date": "16/07",
+        "lane": ["All", "Mid Lane", "Roam"],
+		"date": "09/21",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e743d3fe80b1bb63bb8298ae1d1463f.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_99c0a77d0e01b06ad3f4351f8ef2869c.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_323c7edad76a491ea805644aed3ab999.png"
         },
-        "counters": [20,121,32,90,69,46,36,15],
-        "counteredBy": [132,62,89,110,4,13,105],
+        "counters": [20,121,32,27,93,101,88,69,36,15],
+        "counteredBy": [132,76,51,73,133,14,105],
         "synergy": [93,6,55,108,64,112,107,32,124,39],
         "antiSynergy": [76,115,36,96,52,25,23,101]
     },
@@ -1108,28 +1127,29 @@
         "id": 76,
         "name": "76. Faramis",
         "role": ["Support", "Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane", "Roam"],
+		"date": "09/13",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4bed236fc260d9924b030e576793a26b.png"
         },
-        "counters": [104, 89, 8, 44, 124, 13, 38, 47, 128, 88, 94, 93, 68, 87, 9, 85, 92, 125, 25, 26, 65, 73, 75, 97, 126],
-        "counteredBy": [22, 111, 108, 101, 112, 11, 14, 19, 48, 67, 96, 113, 116, 129, 29, 46, 55, 114, 39, 54, 66, 103, 118],
-        "synergy": [55, 99, 34, 6, 62, 3, 14, 19, 30, 40, 50, 54, 67, 92, 93, 103, 112, 128, 20, 29, 73, 100, 116, 127, 13, 44, 51, 82, 119, 12, 4, 49],
-        "antiSynergy": [86, 110, 36, 108, 125, 45, 63, 75, 57, 52, 129, 64, 16, 74, 23, 101, 2, 33, 119]
+        "counters": [104,27,89,84,124,118,125,68,3,15],
+        "counteredBy": [110,88,34,64,114,119,52],
+        "synergy": [67,58,55,99,34,6,62,3,14,19,30,40,50,54,92,93,103,112,128,20,29,73,100,116,127,13,44,51,82,119,12,4,49],
+        "antiSynergy": [86,110,36,108,125,45,63,75,57,52,129,64,16,74,23,101,2,33,119]
     },
     {
         "id": 77,
         "name": "77. Badang",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Roam"],
-		"date": "09/07",
+        "lane": ["All", "Exp Lane", "Roam"],
+		"date": "09/21",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_484caceb9611d547774d6d936519a7d6.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_a81815e34246147b672d48209089da9c.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1ada4c5f948a71a06e6e97a7c41194ff.png"
         },
-        "counters": [17,27,16,118,21,45,68,18,46],
-        "counteredBy": [81,20,8,4,70,89,84],
+        "counters": [17,27,16,21,51,54,24,18,46],
+        "counteredBy": [101,124,48,108,4,89,84],
         "synergy": [6,96,45,106,120,27,83,2,64,88,123,16,90],
         "antiSynergy": [32,6,10,92,55,20,62,14,93]
     },
@@ -1137,14 +1157,14 @@
         "id": 78,
         "name": "78. Khufra",
         "role": ["Tank"],
-        "lane": ["Roam"],
-		"date": "17/07",
+        "lane": ["All", "Roam"],
+		"date": "10/11",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bd27f70c015094eaba5e48eacc4762.png"
         },
-        "counters": [7,90,89,105,24,3,118,47],
-        "counteredBy": [4,132,83,49,28,117,104],
+        "counters": [7,90,89,20,131,24,80,118,47],
+        "counteredBy": [4,132,11,49,125,117,104],
         "synergy": [15,52,102,124,110,16,108,30,122,55,103,111,24,84,99,9,17,21,23,51],
         "antiSynergy": [20,93,19,32,6,41,58,70,14,48,124,34,10,104,92]
     },
@@ -1152,14 +1172,14 @@
         "id": 79,
         "name": "79. Granger",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "28/07",
+        "lane": ["All", "Gold Lane", "Jungle"],
+		"date": "09/23",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_9ed57f48f91012fd110935258cd1ab61.png"
         },
-        "counters": [8,105,101,88,107,87,121,114,72,61,91],
-        "counteredBy": [17,35,102,130,123,3,21],
+        "counters": [8,105,121,107,88,89,48,87,61,91],
+        "counteredBy": [51,3,17,35,16,21],
         "synergy": [10,62,94,108,39,7,33,109,116],
         "antiSynergy": [12,13,105,43,121,31,114,18]
     },
@@ -1167,14 +1187,14 @@
         "id": 80,
         "name": "80. Guinevere",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "13/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a34258a6365097da09d9513b620bc14a.png"
         },
-        "counters": [40,68,116,81,86,101,16,90,72,83],
-        "counteredBy": [89,88,78,48,45,77,26,118],
+        "counters": [40,116,81,68,123,98,34,20,112,55,16,90],
+        "counteredBy": [89,88,87,118,78,77,26],
         "synergy": [10,49,45,22,123,27,108,7,19,29,35,72,82,95,106,113,83,114,98],
         "antiSynergy": [109,107,56,55,118,8,42]
     },
@@ -1182,14 +1202,14 @@
         "id": 81,
         "name": "81. Esmeralda",
         "role": ["Tank", "Mage"],
-        "lane": ["Exp Lane"],
-		"date": "14/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/02",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f684768281faab70dea48d06fb72979e.png"
         },
-        "counters": [20,102,48,45,132,54,9],
-        "counteredBy": [40,85,116,34,104,53],
+        "counters": [20,102,48,132,37,88,45,9],
+        "counteredBy": [40,85,34,116,93,53],
         "synergy": [93,6,108,88,109,11,24,69,122,48,21,30],
         "antiSynergy": [106,95,59,4,37,16,29,72,82,111,120,123,127,45,64]
     },
@@ -1197,14 +1217,14 @@
         "id": 82,
         "name": "82. Terizla",
         "role": ["Fighter", "Tank"],
-        "lane": ["Exp Lane"],
-		"date": "21/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/15",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fcfbde52476bad8c8e67951240de854c.png"
         },
-        "counters": [45,106,94,20,88,46,16,27],
-        "counteredBy": [83,101,23,53,48,120,53],
+        "counters": [45,88,106,94,87,29,16,27],
+        "counteredBy": [83,48,125,124,107,120,53],
         "synergy": [41,93,55,112,14,80,108,8,63,109,22,62,76,27,90,96],
         "antiSynergy": [106,64,37,95,81,29,72,85,97,103,87,4]
     },
@@ -1212,14 +1232,14 @@
         "id": 83,
         "name": "83. X.Borg",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "10/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/15",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9317fc6f999a43428c2fb9f7feda3cd7.png"
         },
-        "counters": [99,87,82,49,58,108],
-        "counteredBy": [27,16,103,51,118,85],
+        "counters": [87,99,82,58,106,29,108],
+        "counteredBy": [24,110,118,107,97,58,85],
         "synergy": [8,58,27,123,64,45,95,26,29,40,59,77,120,80,16,106,35],
         "antiSynergy": [122,47,112,84,30,118,17,48]
     },
@@ -1227,14 +1247,14 @@
         "id": 84,
         "name": "84. Ling",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "14/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/12",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_4405561c38db556d9cdc6a57b8642e66.png"
         },
-        "counters": [69,104,83,28,57,93,119,18,60],
-        "counteredBy": [24,3,127,7,33,15,54],
+        "counters": [104,83,28,90,93,89,121,18,60],
+        "counteredBy": [24,3,68,127,114,15,54],
         "synergy": [55,78,111,73,104,87,59,50,86,46,22],
         "antiSynergy": [47,21,69,17,30,8,28,39,42,51,83,94,108,109,117,122,126,3,67,56]
     },
@@ -1242,13 +1262,14 @@
         "id": 85,
         "name": "85. Dyrroth",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Jungle"],
+        "lane": ["All", "Exp Lane", "Jungle"],
+		"date": "09/14",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_bf8dcb20923cee2407563e0fe88aa557.png"
         },
-        "counters": [127,81,59,110,4,12,120,79,23,60],
-        "counteredBy": [133,69,78,97,86,38,70],
+        "counters": [81,59,4,127,110,24,20,23,60],
+        "counteredBy": [88,73,97,69,74,38,70],
         "synergy": [10,62,98,69,27,67,130,48,99,93,30,92,87],
         "antiSynergy": [59,72,16,82,123,45,58,64,103,22]
     },
@@ -1256,14 +1277,14 @@
         "id": 86,
         "name": "86. Lylia",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "10/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "09/29",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_03146a311ed83c166b70bdb8fbcdc04f.png"
         },
-        "counters": [28,32,99,60,82,72,46,92,49],
-        "counteredBy": [14,26,105,64,97,122,84],
+        "counters": [32,28,60,4,99,50,44,92,49],
+        "counteredBy": [102,24,16,22,59,122,84],
         "synergy": [19,10,42,73,63,93,69,68,56,16,40,84,88,124],
         "antiSynergy": [115,101,125,76,52,23,57,119,25,91,33,50,129,38,5,61,71]
     },
@@ -1271,14 +1292,14 @@
         "id": 87,
         "name": "87. Baxia",
         "role": ["Tank"],
-        "lane": ["Jungle", "Roam"],
-		"date": "10/07",
+        "lane": ["All", "Jungle", "Roam"],
+		"date": "09/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae43a252fda0fe996322ea8d27a6fe69.png"
         },
-        "counters": [127,4,130,65,74,106,61,90],
-        "counteredBy": [83,20,132,105,69,40,53],
+        "counters": [130,127,4,112,65,67,12,7,61,90],
+        "counteredBy": [17,40,24,28,48,53],
         "synergy": [72,28,5,48,64,51,16,40,84,115,14,24,12,102,108,43,97,127,34,124,85],
         "antiSynergy": [58,117,19,94,6,9,26,62,54,122,22,82]
     },
@@ -1286,14 +1307,14 @@
         "id": 88,
         "name": "88. Masha",
         "role": ["Fighter", "Tank"],
-        "lane": ["Exp Lane"],
-		"date": "12/07",
+        "lane": ["All", "Exp Lane", "Roam", "Jungle"],
+		"date": "03/08",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fcd3a37b34ea16ca6b485b88220e400.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_4d79ba6ebb0a0f2bf542917f0b19d056.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_12c8811faed55965b22e2a7333971c1e.png"
         },
-        "counters": [95,80,84,17,63,85,89,111,121,18],
-        "counteredBy": [27,45,94,109,33,123,72],
+        "counters": [95,80,84,17,89,97,120,3,110,121,18],
+        "counteredBy": [124,45,127,27,19,123,72],
         "synergy": [55,14,124,67,70,62,104,32,37,38,41,44,45,47,68,81,97,128,31,58,77,105,113,119,13,65,66,72,111,86,115,122,101],
         "antiSynergy": [110,64,123,108,74,22,34,40,103,127,106,130,100,39,58]
     },
@@ -1301,13 +1322,14 @@
         "id": 89,
         "name": "89. Wanwan",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
+        "lane": ["All", "Gold Lane"],
+		"date": "08/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_c042bfb106853182a8c38ae5386ceb77.png"
         },
-        "counters": [104,20,113,121,105,93,81,80,117,96],
-        "counteredBy": [106,76,12,62,68,47,23],
+        "counters": [113,93,121,104,80,105,117,96],
+        "counteredBy": [12,88,68,106,50,47,23],
         "synergy": [10,70,108,112,24,119,94,55,69,28,118,99],
         "antiSynergy": [43,1,65,31,18,73,121,114,60,12]
     },
@@ -1315,14 +1337,14 @@
         "id": 90,
         "name": "90. Silvanna",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "25/07",
+        "lane": ["All", "Exp Lane", "Roam"],
+		"date": "09/26",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe98dd2e19bb6c29591763d1d11a3eb7.png"
         },
-        "counters": [109,14,112,55,27,18,57],
-        "counteredBy": [99,97,8,113,45,58],
+        "counters": [109,110,112,55,14,101,64,51,18,57],
+        "counteredBy": [99,89,8,97,78,58],
         "synergy": [93,6,124,34,20,98,2,19,82,77,14],
         "antiSynergy": [109,118,99,122,8,4,116,67]
     },
@@ -1330,14 +1352,14 @@
         "id": 91,
         "name": "91. Cecilion",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "13/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "31/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af02ce891528cd3576858589d8d33d8d.png"
         },
-        "counters": [20,99,59,33,44,108,106,87,2,82],
-        "counteredBy": [69,21,24,121,7,84,17],
+        "counters": [20,99,106,59,33,124,111,2,78,82],
+        "counteredBy": [69,24,121,68,21,84,17],
         "synergy": [92,19,56,42,73,117,100,40,105,102],
         "antiSynergy": [115,96,38,66,52,50,61,86,110,129,5,25]
     },
@@ -1345,14 +1367,14 @@
         "id": 92,
         "name": "92. Carmilla",
         "role": ["Support", "Tank"],
-        "lane": ["Roam"],
-		"date": "12/07",
+        "lane": ["All", "Roam", "Exp Lane"],
+		"date": "09/03",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_358d6ad9cff97fc3bfef8a2bd4acbadd.png"
         },
-        "counters": [94,104,32,34,124,128,85,37],
-        "counteredBy": [110,83,97,24,55,60,89],
+        "counters": [94,104,124,32,35,20,117,19,85,37],
+        "counteredBy": [101,83,24,84,53,60,89],
         "synergy": [91,36,112,76,55,24,16,111,3,85],
         "antiSynergy": [20,10,124,6,102,35,70,77,99,104,48,62,78,49]
     },
@@ -1360,14 +1382,14 @@
         "id": 93,
         "name": "93. Atlas",
         "role": ["Tank"],
-        "lane": ["Roam"],
-		"date": "13/07",
+        "lane": ["All", "Roam"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7b5bb5ddc89246d65e199c6e3b22f.png"
         },
-        "counters": [94,34,18,20,15,33,38],
-        "counteredBy": [132,89,4,84,24,57,31],
+        "counters": [94,18,34,20,32,33,38,15],
+        "counteredBy": [17,89,132,118,71,57,31],
         "synergy": [66,121,102,76,108,105,22,2,11,28,38,86,96,116,64,57,24,85,36,72],
         "antiSynergy": [19,124,10,6,20,9,62,78,98,104,128,41,44,70,63,49,77]
     },
@@ -1375,28 +1397,29 @@
         "id": 94,
         "name": "94. Popol and Kupa",
         "role": ["Marksman"],
-        "lane": ["Jungle", "Gold Lane"],
+        "lane": ["All", "Jungle", "Gold Lane"],
+		"date": "09/20",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5eb4653a13ff08c8f4138dc38ae4e110.png"
         },
-        "counters": [42, 73, 65, 16, 63, 39, 53, 54, 56, 61, 62, 111, 130, 102, 88, 14, 21],
-        "counteredBy": [60, 93, 27, 96, 92, 32, 37, 95, 121, 122, 99, 76, 129, 19, 82],
-        "synergy": [79, 53, 13, 105, 100, 12, 18, 43, 60, 63, 65, 73, 89, 121, 130, 23, 52],
-        "antiSynergy": [108, 117, 84, 87, 122, 7, 22, 118, 2, 27, 99, 126, 28]
+        "counters": [42,16,88,54,33,64,106,63,45,53,100],
+        "counteredBy": [82,92,131,96,93,56,8],
+        "synergy": [28,98,79,53,13,105,100,12,18,43,60,63,65,73,89,121,130,23,52],
+        "antiSynergy": [108,117,84,87,122,7,22,118,2,27,99,126]
     },
     {
         "id": 95,
         "name": "95. Yu Zhong",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "25/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "20/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_7d5ad4d511f5257137028f19e9ee973f.png"
         },
-        "counters": [104,81,93,74,90,94,72,19,108,16],
-        "counteredBy": [88,65,111,89,27,53,40],
+        "counters": [104,74,93,94,19,81,72,108,16],
+        "counteredBy": [88,123,76,68,111,53,40],
         "synergy": [38,115,22,27,108,83,80,62,45],
         "antiSynergy": [106,64,81,82,37,74,120,59]
     },
@@ -1404,28 +1427,28 @@
         "id": 96,
         "name": "96. Luo Yi",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_74fe63bd31cc092aed923543a115b7bd.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_26e03fd72532d11c7b32911b95b8d559.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d564187373b57b3aab116a985e2e27e2.png"
         },
-        "counters": [94, 99, 76, 87, 34, 12, 126, 19, 106, 85],
-        "counteredBy": [64, 88, 119, 23, 102, 24, 20, 62, 97, 69],
-        "synergy": [73, 102, 34, 124, 93, 39, 19, 51, 65, 20, 62, 29, 108, 82, 122, 40],
-        "antiSynergy": [52, 38, 115, 36, 91, 5, 15, 25, 46, 50, 57, 61, 71, 75, 110, 119, 125, 129, 23, 66]
+        "counters": [94,99,76,87,34,12,126,19,106,85],
+        "counteredBy": [64,88,119,23,102,24,20,62,97,69],
+        "synergy": [73,102,34,124,93,39,19,51,65,20,62,29,108,82,122,40],
+        "antiSynergy": [52,38,115,36,91,5,15,25,46,50,57,61,71,75,110,119,125,129,23,66]
     },
     {
         "id": 97,
         "name": "97. Benedetta",
         "role": ["Assassin", "Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "12/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "08/30",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eceefa7ba07f093d71a30852f0051b7a.png"
         },
-        "counters": [28,83,90,93,92,20,121,54,80],
-        "counteredBy": [130,106,43,33,12,74],
+        "counters": [28,83,90,93,72,87,83,54,80],
+        "counteredBy": [106,12,68,130,89,74],
         "synergy": [32,41,108,88,112,28,99,7,72,27,8,19,87,39,117,1],
         "antiSynergy": [106,82,120,103,17,24,45,123]
     },
@@ -1433,13 +1456,14 @@
         "id": 98,
         "name": "98. Khaleed",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Roam"],
+        "lane": ["All", "Exp Lane", "Roam"],
+		"date": "09/19",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_216ea76d9188164c58950885b3962ba1.png"
         },
-        "counters": [113,66,122,60,119,16,48,51,1,33,115],
-        "counteredBy": [106,2,110,76,53,83,26],
+        "counters": [66,113,51,60,16,124,73,37,102,128,33,115],
+        "counteredBy": [118,125,108,110,96,83,26],
         "synergy": [39,8,45,27,108,28,74,11,31,50,85,90,22,127,80,52],
         "antiSynergy": [93,32,49,62,10,24,102,6,63,54]
     },
@@ -1447,28 +1471,29 @@
         "id": 99,
         "name": "99. Barats",
         "role": ["Tank", "Fighter"],
-        "lane": ["Jungle"],
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "09/23",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2ff4a47ddc77ec9e4e5a522fd696d2c4.png"
         },
-        "counters": [88, 15, 7, 46, 3, 1, 16, 22, 26, 29, 45, 50, 78, 90, 100, 103, 108, 114, 126, 12, 94, 122, 19, 33, 66, 67, 32],
-        "counteredBy": [83, 23, 57, 69, 40, 2, 28, 59, 61, 62, 86, 92, 96, 101, 105, 115, 119, 91, 49, 60, 118, 58, 108],
-        "synergy": [34, 112, 76, 58, 55, 13, 14, 33, 43, 51, 63, 71, 97, 25, 101, 124, 24, 85, 78, 89, 109],
-        "antiSynergy": [122, 39, 117, 92, 67, 2, 9, 90, 69, 128, 127, 108, 110, 126, 94, 29, 54, 104]
+        "counters": [90,45,7,100,106,66,39,16,70,20],
+        "counteredBy": [83,101,86,23,105,9,31],
+        "synergy": [102,55,34,112,76,58,13,14,33,43,51,63,71,97,25,101,124,24,85,78,89,109],
+        "antiSynergy": [122,39,117,92,67,2,9,90,69,128,127,108,110,126,94,29,54,104]
     },
     {
         "id": 100,
         "name": "100. Brody",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "21/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "17/08",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc8216bde520fd7be7a2e9e6fad90191.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_cbb309b63cdf838fce79bd9cb95d4ed7.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f9cb88efae5d35e6317828bcdb7154d6.png"
         },
-        "counters": [8,24,17,70,51,118,43,109,113],
-        "counteredBy": [99,27,88,78,76,58,89],
+        "counters": [8,24,70,51,17,107,118,109,113],
+        "counteredBy": [94,124,99,27,128,58,89],
         "synergy": [49,74,112,34,94,55,39,91,76,117,62],
         "antiSynergy": [1,18,121,60,65,12,114,13,73,31,26,88]
     },
@@ -1476,7 +1501,7 @@
         "id": 101,
         "name": "101. Yve",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d8cc30b9d273a81bd838afc691852b6f.png"
@@ -1490,14 +1515,14 @@
         "id": 102,
         "name": "102. Mathilda",
         "role": ["Support", "Assassin"],
-        "lane": ["Roam"],
-		"date": "14/07",
+        "lane": ["All", "Roam"],
+		"date": "09/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_515a1949e9c3dc1ee1a281f45d42b085.png"
         },
-        "counters": [24,83,28,84,57,101,97,23,66],
-        "counteredBy": [81,46,7,20,94,10,74],
+        "counters": [24,83,28,57,97,124,48,128,24,110,23,66],
+        "counteredBy": [111,20,101,81,35,10,74],
         "synergy": [3,15,78,93,110,22,58,96,106,115,127,9,87,126,46,68,91,103,124,20,66,101],
         "antiSynergy": [48,34,14,20,32,26,55,92,19,124,98,10,112,44,62,128]
     },
@@ -1505,14 +1530,14 @@
         "id": 103,
         "name": "103. Paquito",
         "role": ["Fighter", "Assassin"],
-        "lane": ["Exp Lane"],
-		"date": "18/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "10/09",
         "icons": {
-            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1986ebcc24fc3eb28f59f079c15be612.png"
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_5ab87805b9107b126a3bab64a8a199ad.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_7d54ccba749ba18ec934631b49632d1f.png"
         },
-        "counters": [83,24,8,69,89,64,23,18],
-        "counteredBy": [81,78,106,33,114,10,62],
+        "counters": [24,83,8,27,34,101,51,23,18],
+        "counteredBy": [81,78,106,124,54,10,62],
         "synergy": [55,14,118,124,67,76,32,78,45,102,6,117,126],
         "antiSynergy": [74,64,82,97,111,88,120,85,24,26]
     },
@@ -1520,13 +1545,14 @@
         "id": 104,
         "name": "104. Gloo",
         "role": ["Tank"],
-        "lane": ["Exp Lane", "Roam"],
+        "lane": ["All", "Exp Lane", "Roam"],
+		"date": "09/19",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_8b401d50920f2359060a9c7a3c833df1.png"
         },
-        "counters": [109,66,32,8,54,53,119,122,91,61],
-        "counteredBy": [133,76,84,101,124,40],
+        "counters": [109,32,54,61,8,87,79,113,91],
+        "counteredBy": [76,68,108,4,88,40,53],
         "synergy": [15,3,88,64,27,24,45,16,31,51,65,66,69,84,5,130,126,14,62,1,61],
         "antiSynergy": [4,93,59,92,106,70,19,78,99,127]
     },
@@ -1534,14 +1560,14 @@
         "id": 105,
         "name": "105. Beatrix",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "13/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/29",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c1acd7cbd828f0c5d291e48a0f7c018d.png"
         },
-        "counters": [34,60,87,111,19,72,49,70],
-        "counteredBy": [78,132,79,123,31,15,84],
+        "counters": [34,60,70,87,111,49],
+        "counteredBy": [24,97,43,62,47,15,84],
         "synergy": [78,93,94,14,93,108,8,88,91,34,15,10],
         "antiSynergy": [18,31,12,114,1,79,107,40,13,73]
     },
@@ -1549,14 +1575,14 @@
         "id": 106,
         "name": "106. Phoveus",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "12/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/04",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_6bfe8ca7e60623a5261eac20e2b39d34.png"
         },
-        "counters": [89,73,22,97,98,110,120,25],
-        "counteredBy": [83,27,74,28,81,36,57,38],
+        "counters": [89,73,22,97,29,110,45,20,120,26],
+        "counteredBy": [83,74,28,27,55,36,57,38],
         "synergy": [41,19,6,27,77,80,126,102,109,12,31,83,55],
         "antiSynergy": [82,95,59,81,64,4,37,74,97,104,111,120,45,88]
     },
@@ -1564,13 +1590,14 @@
         "id": 107,
         "name": "107. Natan",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
+        "lane": ["All", "Gold Lane"],
+		"date": "09/09",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6736ef8c230d82576c3710e9fc248e11.png"
         },
-        "counters": [27,104,50,81,59,94,6,41],
-        "counteredBy": [122,97,120,121,20,3,15],
+        "counters": [27,104,50,81,32,73,124,6,41],
+        "counteredBy": [20,87,29,76,126,3,15],
         "synergy": [32,28,17,113,110,119,15,5,10,21,58,75,122,36,69,126,128],
         "antiSynergy": [1,114,12,130,60,11,33,80,116,18,105,31,111]
     },
@@ -1578,13 +1605,14 @@
         "id": 108,
         "name": "108. Aulus",
         "role": ["Fighter"],
-        "lane": ["Jungle"],
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "10/09",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_4a632ceb1dfcb3aad58a6d02a46a1c9e.png"
         },
-        "counters": [24,104,27,118,20,88,3,60,1,23],
-        "counteredBy": [40,62,101,125,10,114,8],
+        "counters": [104,27,6,74,20,24,60,1,23],
+        "counteredBy": [4,2,116,34,112,10,114,8],
         "synergy": [55,112,67,97,6,20,95,10,26,36,44,52,53,54,75,78,79,80,81,82,89,93,98,105,23,37,50,87,120,73,13,15,29,32,96],
         "antiSynergy": [84,69,126,122,39,7,28,33,76,88,94,11,99,24,111,47,117,22,127]
     },
@@ -1592,14 +1620,14 @@
         "id": 109,
         "name": "109. Aamon",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "12/07",
+        "lane": ["All", "Jungle"],
+		"date": "10/06",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c9e4d330229c88b1e78ef88ce9db4223.png"
         },
-        "counters": [132,123,88,65,35,40,115,91],
-        "counteredBy": [104,21,90,94,20,2,117],
+        "counters": [123,132,65,35,16,73,115,91],
+        "counteredBy": [104,21,90,20,87,2,117],
         "synergy": [14,112,106,119,82,81,58,65,129,44,79,29,99],
         "antiSynergy": [84,69,17,30,21,3,11,24,56,80,90,116,118,8,39]
     },
@@ -1607,28 +1635,29 @@
         "id": 110,
         "name": "110. Valentina",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "20/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7923ebf470d0e963e9978cb21eb25780.png"
         },
-        "counters": [93, 83, 67, 102, 92, 11, 75, 129, 45, 66, 122, 86, 20, 24, 84],
-        "counteredBy": [50, 57, 33, 40, 106, 32, 77, 120, 55, 14, 62, 74, 54],
-        "synergy": [48, 22, 102, 121, 78, 4, 11, 33, 56, 107, 115, 122, 42, 124, 47, 119, 128, 129, 73, 116, 118],
-        "antiSynergy": [125, 25, 76, 96, 36, 15, 29, 61, 68, 88, 101, 91, 24, 54, 99, 66, 74]
+        "counters": [92,93,83,84,129,76,86,125,98,60],
+        "counteredBy": [124,50,132,120,70,21,24,69],
+        "synergy": [48,22,102,121,78,4,11,33,56,107,115,122,42,124,47,119,128,129,73,116,118],
+        "antiSynergy": [125,25,76,96,36,15,29,61,68,88,101,91,24,54,99,66,74]
     },
     {
         "id": 111,
         "name": "111. Edith",
         "role": ["Tank", "Marksman"],
-        "lane": ["Exp Lane", "Roam"],
-		"date": "21/07",
+        "lane": ["All", "Exp Lane", "Roam"],
+		"date": "09/23",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_352f65059bc1180ae0fc066003d628e0.png"
         },
-        "counters": [73,76,90,4,65,68,46,16,108],
-        "counteredBy": [20,88,18,94,69,60,89],
+        "counters": [4,76,90,46,73,102,33,16,108],
+        "counteredBy": [98,87,36,20,124,60,89],
         "synergy": [19,93,34,112,84,69,24,13,17,21,25,53,128,92,124,62,18,32,63,78,88,3,20,113,119],
         "antiSynergy": [81,59,2,120,106,103,108,29,107,125,22]
     },
@@ -1636,14 +1665,14 @@
         "id": 112,
         "name": "112. Floryn",
         "role": ["Support"],
-        "lane": ["Roam"],
-		"date": "13/07",
+        "lane": ["All", "Roam"],
+		"date": "09/23",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5168f0a54304b2f20f976a1ffa96e1dc.png"
         },
-        "counters": [132,4,83,84,76,48,59],
-        "counteredBy": [20,121,90,113,122,8,3],
+        "counters": [132,4,83,84,76,2,28,59],
+        "counteredBy": [20,87,121,124,113,8,3],
         "synergy": [82,72,124,99,125,92,76,25,30,37,46,47,75,89,97,100,101,111,117,122,127,68,7,67],
         "antiSynergy": [14,20,34,48,19,11,27,45,55,83,51,10,102]
     },
@@ -1651,14 +1680,14 @@
         "id": 113,
         "name": "113. Yin",
         "role": ["Fighter", "Assassin"],
-        "lane": ["Jungle", "Exp Lane"],
-		"date": "15/07",
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "21/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_95836476311e2026077d87eb2373a281.png"
         },
-        "counters": [34,48,112,121,74,7,18,91],
-        "counteredBy": [89,43,59,78,88,117,77],
+        "counters": [48,114,34,112,74,96,76,18,91],
+        "counteredBy": [89,81,43,59,50,117,77],
         "synergy": [102,14,107,62,80,50,61,124,88,71,111],
         "antiSynergy": [69,126,39,48,17,21,42]
     },
@@ -1666,14 +1695,14 @@
         "id": 114,
         "name": "114. Melissa",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "14/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "08/29",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_566636fa333651ef67931deade4eef84.png"
         },
-        "counters": [20,102,67,118,24,7,27,16],
-        "counteredBy": [121,52,30,66,79,115,5],
+        "counters": [20,102,84,67,76,118,7,27,16],
+        "counteredBy": [121,70,18,15,74,115,5],
         "synergy": [6,19,20,17,42,15,34,80,56,127,5,8,39,54,36],
         "antiSynergy": [65,1,12,18,31,40,60,105,107,121,130,53,89,43,100,79]
     },
@@ -1681,13 +1710,14 @@
         "id": 115,
         "name": "115. Xavier",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
+		"date": "09/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f4e01714176adb56ca70eef1460e461.png"
         },
-        "counters": [70,132,76,9,92,50,83,62,60],
-        "counteredBy": [24,20,55,64,109,97,21],
+        "counters": [70,59,76,9,83,87,93,124,132,60],
+        "counteredBy": [24,51,55,64,16,97,21],
         "synergy": [92,93,110,87,102,116,128,126,40,2,62,123,53,88,73,117,58,13],
         "antiSynergy": [91,96,52,23,66,5,15,36,38,46,50,57,61,71,75,86,101,119,129,68,125,25]
     },
@@ -1695,14 +1725,14 @@
         "id": 116,
         "name": "116. Julian",
         "role": ["Assassin", "Fighter"],
-        "lane": ["Jungle", "Exp Lane"],
-		"date": "21/07",
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "09/13",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_44891c699fb1c00fc4a7fa59ea95b8b3.png"
         },
-        "counters": [76,81,48,27,83,110,4,91,64],
-        "counteredBy": [87,79,72,80,6,118,73],
+        "counters": [76,81,48,4,27,102,110,91,64],
+        "counteredBy": [79,88,80,128,73,118],
         "synergy": [55,48,93,32,125,20,115,5,76,120,44,110,124,79],
         "antiSynergy": [109,8,118,107,122,126,69,39,90]
     },
@@ -1710,13 +1740,14 @@
         "id": 117,
         "name": "117. Fredrinn",
         "role": ["Fighter", "Tank"],
-        "lane": ["Jungle", "Exp Lane"],
+        "lane": ["All", "Jungle", "Exp Lane"],
+		"date": "09/20",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f574825bd9192094f047a4abc6d5d05.png"
         },
-        "counters": [104,68,118,7,45,46,81,66,15],
-        "counteredBy": [57,83,48,23,69,40,53],
+        "counters": [104,7,45,3,81,88,118,66,15],
+        "counteredBy": [76,87,57,40,48,53],
         "synergy": [55,112,48,34,14,51,52,91,100,103,97,115],
         "antiSynergy": [84,39,69,122,30,2,7,9,28,87,94,99,127,47,108,67]
     },
@@ -1724,28 +1755,29 @@
         "id": 118,
         "name": "118. Joy",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
+        "lane": ["All", "Jungle"],
+		"date": "09/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b5570b0e557e36501b4228fcdfcf164.png"
         },
-        "counters": [83, 27, 101, 93, 23, 79, 86, 105, 20, 99, 5, 76, 44, 82],
-        "counteredBy": [33, 31, 62, 117, 124, 15, 100, 12, 22, 46, 39, 113],
-        "synergy": [103, 123, 48, 125, 55, 8, 12, 89, 110],
-        "antiSynergy": [69, 39, 109, 94, 116, 80, 90, 83, 56]
+        "counters": [27,83,20,60,96,98,101,39,115,38],
+        "counteredBy": [133,113,10,33,51,74,78],
+        "synergy": [103,123,48,125,55,8,12,89,110],
+        "antiSynergy": [69,39,109,94,116,80,90,83,56]
     },
     {
         "id": 119,
         "name": "119. Novaria",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "12/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "09/02",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_12c811236741ae8e3fbdaa2d884b30a2.png"
         },
-        "counters": [60,57,11,48,83,76,92,15,46],
-        "counteredBy": [35,84,73,24,64,3,21],
+        "counters": [48,28,6,60,83,92,132,4,131,15,46],
+        "counteredBy": [24,64,16,31,84,3,21],
         "synergy": [105,18,46,107,109,63,42,89,101,88,110,76,24,56,36,125,111,68,130],
         "antiSynergy": [96,86,52,115,5,38,57,76]
     },
@@ -1753,14 +1785,14 @@
         "id": 120,
         "name": "120. Arlott",
         "role": ["Fighter", "Assassin"],
-        "lane": ["Exp Lane"],
-		"date": "28/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "08/27",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_01450fec4397f8780ce0d11ab652c73d.png"
         },
-        "counters": [83,78,107,125,29,123,62,27,16],
-        "counteredBy": [124,106,50,45,76,72,117],
+        "counters": [83,125,78,107,71,101,89,97,27,16],
+        "counteredBy": [127,124,45,50,106,72,117],
         "synergy": [41,93,27,124,22,83,77,28,11,108,19,116],
         "antiSynergy": [81,37,95,64,111,16,97,106,103,59]
     },
@@ -1768,14 +1800,14 @@
         "id": 121,
         "name": "121. Ixia",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "12/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/15",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5f758bd1141327d36f2c77928268ab7.png"
         },
-        "counters": [34,14,112,60,33,94,117,11],
-        "counteredBy": [69,89,97,75,65,3,109],
+        "counters": [34,14,112,33,114,20,60,101,117,11],
+        "counteredBy": [89,24,65,69,113,3,109],
         "synergy": [117,11,48,110,22,94,34,39,68,124,71,33],
         "antiSynergy": [43,114,12,18,89,79,100,31,1]
     },
@@ -1783,14 +1815,14 @@
         "id": 122,
         "name": "122. Nolan",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "23/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0495066df0d828c149e7fe89aa63078b.png"
         },
-        "counters": [34,112,11,55,87,83,57,96,60,15],
-        "counteredBy": [24,88,3,54,35,72,117],
+        "counters": [34,11,112,20,94,101,107,76,102,60,15],
+        "counteredBy": [24,3,51,113,98,72,117],
         "synergy": [6,41,110,78,33,107,112,14,81,88,62,96],
         "antiSynergy": [69,17,47,84,99,3,8,56,83,90,94,108,116,117,21,74,39,87,30,11,42]
     },
@@ -1798,14 +1830,14 @@
         "id": 123,
         "name": "123. Cici",
         "role": ["Fighter"],
-        "lane": ["Exp Lane"],
-		"date": "28/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/22",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4f970eb4b44b8c9fff2c511d8e856ff4.png"
         },
-        "counters": [2,72,4,49,9,117,87,19],
-        "counteredBy": [27,109,34,88,83,3,62],
+        "counters": [2,72,4,49,127,104,70,37,117,19],
+        "counteredBy": [48,109,46,124,88,3,62],
         "synergy": [55,112,83,80,27,45,41,11,118,77,115],
         "antiSynergy": [88,64,81,85,59,72,74,97]
     },
@@ -1813,7 +1845,7 @@
         "id": 124,
         "name": "124. Chip",
         "role": ["Support", "Tank"],
-        "lane": ["Roam"],
+        "lane": ["All", "Roam"],
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85e15c66733cab7d8d73f7f725f31f1e.png"
@@ -1827,7 +1859,7 @@
         "id": 125,
         "name": "125. Zhuxin",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
+        "lane": ["All", "Mid Lane"],
 		"date": "25/07",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
@@ -1842,14 +1874,14 @@
         "id": 126,
         "name": "126. Suyou",
         "role": ["Assassin", "Fighter"],
-        "lane": ["Jungle"],
-		"date": "09/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/29",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_422ffc7849e8bb01629d2423054ed410.png"
         },
-        "counters": [27,24,83,113,5,20,99,108,121,115],
-        "counteredBy": [73,90,124,109,56,114,77],
+        "counters": [27,24,83,113,8,48,133,121,115],
+        "counteredBy": [73,46,90,42,56,114,77],
         "synergy": [14,6,62,48,12,106,4,43,115,102,104,128,125,103,107,65],
         "antiSynergy": [67,69,84,17,47,3,42,51,54,56,108,113,2,116,22,99,30,28,94]
     },
@@ -1857,14 +1889,14 @@
         "id": 127,
         "name": "127. Lukas",
         "role": ["Fighter"],
-        "lane": ["Exp Lane", "Jungle"],
-		"date": "14/07",
+        "lane": ["All", "Exp Lane", "Jungle"],
+		"date": "09/26",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_454c13b2de7b7d1a20fbf553c620510d.png"
         },
-        "counters": [84,17,27,24,25,124,88,60,121],
-        "counteredBy": [87,2,74,72,106,17,57,116],
+        "counters": [84,24,27,64,17,16,20,60,121],
+        "counteredBy": [74,87,110,106,123,57,116],
         "synergy": [93,6,41,124,55,112,102,12,54,76,87,98,114,22,53],
         "antiSynergy": [59,117,2,81,50,99,88,58,108,104]
     },
@@ -1872,14 +1904,14 @@
         "id": 128,
         "name": "128. Kalea",
         "role": ["Support", "Fighter"],
-        "lane": ["Roam"],
-		"date": "10/07",
+        "lane": ["All", "Roam"],
+		"date": "09/17",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_9c5f2904026ba88b7aba8c9b2722f4ad.png"
         },
-        "counters": [17,51,90,122,7,110,21,18,61],
-        "counteredBy": [99,76,60,12,67,48,19],
+        "counters": [17,90,51,16,79,76,118,68,110,20,18,61],
+        "counteredBy": [101,102,125,124,120,48,19],
         "synergy": [15,42,13,69,88,76,111,115,74,126,110,11,17,107,30],
         "antiSynergy": [124,19,10,93,32,54,49,99,62,35,6,102,9]
     },
@@ -1887,14 +1919,14 @@
         "id": 129,
         "name": "129. Zetian",
         "role": ["Mage"],
-        "lane": ["Mid Lane"],
-		"date": "13/07",
+        "lane": ["All", "Mid Lane"],
+		"date": "09/21",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_22dc8b16ea98a735027c3141b74ef841.png"
         },
-        "counters": [20,24,6,51,94,109,2,16],
-        "counteredBy": [104,112,110,34,87],
+        "counters": [20,24,6,94,27,51,2,16],
+        "counteredBy": [102,73,12,110,125],
         "synergy": [112,14,56,109,4,8,24,73,68,42,110,63,15],
         "antiSynergy": [36,115,96,23,125,66,91,86,76,101]
     },
@@ -1902,14 +1934,14 @@
         "id": 130,
         "name": "130. Obsidia",
         "role": ["Marksman"],
-        "lane": ["Gold Lane"],
-		"date": "13/07",
+        "lane": ["All", "Gold Lane"],
+		"date": "09/06",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_92bcc9ad2c4c8165a888d34f086a4d28.png"
         },
-        "counters": [97,51,24,105,17,79,122,21,22,47],
-        "counteredBy": [87,94,34,70,8,12,18],
+        "counters": [97,51,69,79,105,101,20,21,22,47],
+        "counteredBy": [87,34,33,124,125,12,18],
         "synergy": [55,34,69,42,38,85,94,104,17,32,9,119],
         "antiSynergy": [18,114,65,31,1,73,107,43,88]
     },
@@ -1917,14 +1949,14 @@
         "id": 131,
         "name": "131. Sora",
         "role": ["Fighter", "Assassin"],
-        "lane": ["Exp Lane"],
-		"date": "14/07",
+        "lane": ["All", "Exp Lane"],
+		"date": "09/04",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_4749a1f7fe99cbedfc5ef23fc1287d6c.png"
         },
-        "counters": [34,20,14,8,80,81,18,1,60],
-        "counteredBy": [106,114,17,4,78,57,120],
+        "counters": [34,8,14,94,80,124,125,73,100,18,1,60],
+        "counteredBy": [101,106,48,114,76,57,17,120],
         "synergy": [41,6,19,108,102,101,124,86,52],
         "antiSynergy": [106,95,64,123,82]
     },
@@ -1932,14 +1964,14 @@
         "id": 132,
         "name": "132. Marcel",
         "role": ["Support"],
-        "lane": ["Roam"],
-		"date": "28/07",
+        "lane": ["All", "Roam"],
+		"date": "20/08",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_dd980a8816698f1503cdb76201d17dd0.png"
         },
-        "counters": [93,124,78,9,75,94,18,38],
-        "counteredBy": [55,33,14,53,112,84,83],
+        "counters": [93,9,124,75,27,87,110,18,38],
+        "counteredBy": [55,34,109,76,18,84,83],
         "synergy": [60,121,102,110,112,12,88,49,96],
         "antiSynergy": [78,48,14,34,19,20,43,92,41]
     },
@@ -1947,14 +1979,14 @@
         "id": 133,
         "name": "133. Hirara",
         "role": ["Assassin"],
-        "lane": ["Jungle"],
-		"date": "15/07",
+        "lane": ["All", "Jungle"],
+		"date": "09/29",
         "icons": {
             "round": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_71224844b111f09367df00e4f9b97753.png",
             "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ec67aa6f87226cceb794b3786d14c902.png"
         },
-        "counters": [69,93,118,105,102,20,27,23,104,52,121,113,56],
-        "counteredBy": [106,33,46,7,3,24],
+        "counters": [69,20,27,83,88,118,113,72,52,121,56],
+        "counteredBy": [106,33,3,74,41,24],
         "synergy": [55,19,128,122,8,36,124],
         "antiSynergy": [20,60,27,45,90]
     },
@@ -1962,7 +1994,7 @@
         "id": 134,
         "name": "LipanB",
         "role": ["LipanB"],
-        "lane": ["LipanB"],
+        "lane": ["All", "LipanB"],
         "icons": {
             "round": "https://yt3.ggpht.com/KG65H3JXquEhW5su8JQbiQy_uJRnvUow_b2OUK1uVPpostTAKZ0qb_ztQAH83KSiOhaTDkhp2w=s600-c-k-c0x00ffffff-no-rj-rp-mo",
             "rectangle": ""
